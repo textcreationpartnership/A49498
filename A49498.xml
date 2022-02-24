@@ -1,0 +1,2404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The assemblies shorter catechism drawn out into distinct propositions, and proved by plain and pertinent texts of Scripture at large with short rules of direction for masters of families, how to use this book to the best advantage / by Thomas Lye ...</title>
+            <author>Lye, Thomas, 1621-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49498</idno>
+            <idno type="STC">Wing L3528</idno>
+            <idno type="STC">ESTC R37616</idno>
+            <idno type="EEBO-CITATION">16988165</idno>
+            <idno type="OCLC">ocm 16988165</idno>
+            <idno type="VID">105630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1096:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The assemblies shorter catechism drawn out into distinct propositions, and proved by plain and pertinent texts of Scripture at large with short rules of direction for masters of families, how to use this book to the best advantage / by Thomas Lye ...</title>
+                  <author>Lye, Thomas, 1621-1684.</author>
+               </titleStmt>
+               <extent>64 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 64.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Westminster Assembly (1643-1652). --  Shorter catechism.</term>
+               <term>Presbyterianism --  Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105630:1"/>
+            <pb facs="tcp:105630:1" rendition="simple:additions"/>
+            <p>THE Aſſemblies SHORTER CATECHISM Drawn out into diſtinct <hi>PROPOSITIONS,</hi> AND Proved by plain and pertinent Texts of Scripture at large.</p>
+            <p>With ſhort Rules of Direction for Maſters of Families, how to uſe this Book to the beſt advantage.</p>
+            <p>By <hi>Thomas Lye,</hi> M. A. and ſometimes Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel at <hi>Alhallows Lumbard<g ref="char:EOLhyphen"/>ſtreet.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105630:2"/>
+            <pb n="3" facs="tcp:105630:2"/>
+            <head>The Principles of the Chriſtian Religion Comprehended in the <hi>Aſſemblies</hi> Shorter Catechiſm; Drawn out into ſeveral di<g ref="char:EOLhyphen"/>ſtinct Propoſitions, and proved by plain and pertinent Texts of Scripture.</head>
+            <div type="directions">
+               <head>Plain Directions for the more profitable uſe of this Book.</head>
+               <p n="1">1. I Adviſe, That it may be gone through in a Fa<g ref="char:EOLhyphen"/>mily, conſtantly once a <hi>Month.</hi> To that end, I have divided it into <hi>Thirty</hi> parts, and fixt the <hi>day</hi> of the <hi>Month,</hi> at the head of every part in the Margent.</p>
+               <p n="2">2. Let it be once, or twice <hi>diſtinctly read over,</hi> and that by parts, ſo much only <hi>at a time,</hi> as is allotted for <hi>one</hi> day: As for example; from the <hi>firſt</hi> to the <hi>fifth</hi> queſtion, the <hi>firſt</hi> day; from the <hi>fifth,</hi> to the <hi>ninth</hi> queſtion, the <hi>ſecond</hi> day; and ſo on to the end.</p>
+               <p n="3">3. When your firſt begin to examine your Family, let them anſwer <hi>only within Book;</hi> and after you have once, or twice, gone over the <hi>whole Catechiſm</hi> within Book, and that you perceive their underſtandings to be ſomewhat <hi>inlightned,</hi> then, <hi>and not till then,</hi> let them be required to anſwer <hi>without Book.</hi>
+               </p>
+               <p n="4">4. In all your Examinations, through every An<g ref="char:EOLhyphen"/>ſwer of the Catechiſm, keep <hi>cloſe,</hi> and <hi>conſtant</hi> to theſe Queſtions.</p>
+            </div>
+            <div type="directions">
+               <head>Suppoſe the firſt Queſtion.</head>
+               <p n="1">1. Propoſe the Queſtion, as it is in the Book, Thus;</p>
+               <p>Q <hi>What is the chief end of Man?</hi> Then let the learner repeat the Anſwer; Thus.</p>
+               <pb n="4" facs="tcp:105630:3"/>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Mans chief end is to glorifie God, and to enjoy him for ever.</hi>
+               </p>
+               <p n="2">2 Q. How many <hi>Doctrines,</hi> or <hi>diſtinct Truths,</hi> are in this Anſwer?</p>
+               <p>
+                  <hi>A.</hi> There are <hi>two.</hi>
+               </p>
+               <p n="3">3 Q. What is the <hi>firſt</hi> Doctrine in this Anſwer?</p>
+               <p>
+                  <hi>A.</hi> That, <hi>Mans chief end is, to glorifie God.</hi>
+               </p>
+               <p n="4">4 Q. How is this Doctrine <hi>proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is <hi>proved</hi> out of 1 <hi>Cor.</hi> 10.31. <hi>Whether there<g ref="char:EOLhyphen"/>fore ye eat or drink, or whatſoever ye do, do all to the glory of God.</hi>
+               </p>
+               <p n="5">5 Q. Where lies the <hi>force</hi> of this Text, to prove this Doctrine?</p>
+               <p>
+                  <hi>A.</hi> In theſe words, <hi>Do all to the glory of God.</hi>
+               </p>
+               <p n="6">6 Q. How <hi>know</hi> you, that the force lies in theſe words?</p>
+               <p>
+                  <hi>A.</hi> Both by the <hi>ſenſe</hi> of the words themſelves, and alſo becauſe <hi>theſe words are printed with a different cha<g ref="char:EOLhyphen"/>racter, or letter, from other words of the ſame Text.</hi>
+               </p>
+               <p n="7">7 Q. But what if at any time, <hi>as 'tis often in the Ca<g ref="char:EOLhyphen"/>techiſm,</hi> all the words of the Text are printed <hi>alike?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Then the <hi>force</hi> of the proof lies in the <hi>whole</hi> Text.</p>
+               <p>Having askt theſe <hi>ſeven</hi> Queſtions, then proceed to the <hi>ſecond</hi> Doctrine; and ask the very ſelf-ſame Queſtions, <hi>and ſo of every Doctrine,</hi> that ſhall be found in any Anſwer: Thus,</p>
+               <p>Q. What is the ſecond Doctrin?</p>
+               <p>
+                  <hi>A.</hi> Next to the glorifying of God, to enjoy him for ever.</p>
+               <p>Q. Why ſay you ſo? This is no Doctrine, for it is not full and perfect ſenſe; therefore look narrowly
+<pb n="5" facs="tcp:105630:3"/>into your Book, eſpecially to the <hi>firſt Doctrine,</hi> and there you will find ſome other words, which be<g ref="char:EOLhyphen"/>ing added to what you have ſaid, the ſenſe will be full and compleat.</p>
+               <p>
+                  <hi>Note with all care, that when ever you ask the Learner a Doctrine, be ſure, he give you full, and compleat ſenſe, eſ<g ref="char:EOLhyphen"/>pecially in ſecond, third, fourth, or fifth Doctrines, &amp;c.</hi> Now then,</p>
+               <p>Q. 1. What is the <hi>ſecond</hi> Doctrine in this Anſwer?</p>
+               <p>
+                  <hi>A.</hi> That <hi>Mans chief end, next to the glorifying of God, is to enjoy him for ever.</hi>
+               </p>
+               <p>Q. 2. Now indeed you anſwer right. How is this Doctrine <hi>proved?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is <hi>proved</hi> out of <hi>Pſal.</hi> 73.25, 26. <hi>Whom have I in heaven,</hi> &amp;c.</p>
+               <p>Q. 3. Where lies the <hi>force</hi> of this Text, to <hi>prove</hi> this Doctrine?</p>
+               <p>
+                  <hi>A.</hi> In theſe words, <hi>Whom have I in heaven but thee? none, that I deſire beſides thee.</hi> v. 26. <hi>God is my portion for ever.</hi>
+               </p>
+               <p>Q. 4. How know you, that the force lies in theſe words?</p>
+               <p>
+                  <hi>A.</hi> Both by the <hi>ſenſe</hi> of the words themſelves; and alſo <hi>becauſe theſe words are printed with a different character, from other words of the ſame Text.</hi>
+               </p>
+               <p>Having thus gone over the whole Anſwer, and pro<g ref="char:EOLhyphen"/>ved the Doctrines contained therein; then pro<g ref="char:EOLhyphen"/>ceed to the <hi>ſeveral Scriptures,</hi> and ſee, what <hi>Do<g ref="char:EOLhyphen"/>ctrines</hi> the Learner can obſerve from them. Thus,</p>
+               <p>Q. 1. How <hi>many</hi> Texts of Scripture have you in this Anſwer?</p>
+               <p>
+                  <hi>A. Two.</hi>
+               </p>
+               <pb n="6" facs="tcp:105630:4"/>
+               <p>Q. 2. Which is the firſt?</p>
+               <p>
+                  <hi>A.</hi> 1 <hi>Cor.</hi> 10.31. <hi>Whether therefore ye eat,</hi> &amp;c.</p>
+               <p>Q. 3. What <hi>Docirine</hi> do you obſerve from this Text?</p>
+               <p>
+                  <hi>A.</hi> I obſerve from this Text, that <hi>Mans chief end is to glorifie God.</hi>
+               </p>
+               <p>Q. 4. From <hi>what words</hi> of this Text do you ob<g ref="char:EOLhyphen"/>ſerve that Truth?</p>
+               <p>
+                  <hi>A.</hi> From theſe words, <hi>Do all to the glory of God.</hi>
+               </p>
+               <p>Q. 5. Why from theſe words?</p>
+               <p>
+                  <hi>A.</hi> Becauſe the <hi>force</hi> of the Text to prove this Truth, lies in them.</p>
+               <p>Then proceed to the ſecond Scripture: Thus,</p>
+               <p>Q. 1. What is the ſecond Text of Scripture in this Anſwer?</p>
+               <p>
+                  <hi>A. Pſal.</hi> 73.25, 26. <hi>Whom have I in heaven but thee?</hi> &amp;c.</p>
+               <p>Q. 2. What <hi>Doctrine,</hi> or Truth, do you obſerve from this Text?</p>
+               <p>
+                  <hi>A.</hi> I obſerve from this Text, that <hi>Mans chief end next to the glorifying of God, is to enjoy him for ever.</hi>
+               </p>
+               <p>Q. 3. From <hi>what words</hi> of this Text do you ob<g ref="char:EOLhyphen"/>ſerve that truth?</p>
+               <p>
+                  <hi>A.</hi> From theſe words, <hi>Whom have I in heaven, but thee? none that I deſire beſides thee.</hi> 26. <hi>God is my portion for ever.</hi>
+               </p>
+               <p>Q. 4. Why from theſe words?</p>
+               <p>
+                  <hi>A.</hi> Becauſe the <hi>force</hi> of the Text to prove this truth, lies in them.</p>
+               <p>Q. 5. What if at any time you find <hi>all the words of the Texts of Scripture printed alike,</hi> from <hi>what words</hi> then will you raiſe your Doctrine?</p>
+               <pb n="7" facs="tcp:105630:4"/>
+               <p>
+                  <hi>A.</hi> Not from any particular words of the Text, but <hi>from the whole.</hi>
+               </p>
+               <p>In this <hi>familiar</hi> and <hi>rational</hi> method, you may eaſily proceed to examine upon <hi>every</hi> Anſwer, and Scripture, in the <hi>whole Catechiſm.</hi>
+               </p>
+            </div>
+            <div type="catechism">
+               <head>The CATECHISM.</head>
+               <p>Q. <hi>What is the chief end of Man?</hi>
+                  <note place="margin">Firſt Day of the Month.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Mans chief end is, to glo<g ref="char:EOLhyphen"/>rifie God, and to enjoy him for ever.</hi>
+               </p>
+               <p>
+                  <hi>Mans chief end is,</hi>
+               </p>
+               <list>
+                  <item>1. To glorifie <hi>God. Proved</hi> out of 1 <hi>Cor.</hi> 10.31. Whether therefore ye eat or drink, or whatſoever ye do, <hi>Do all to the glory of God.</hi>
+                  </item>
+                  <item>2. Next to the glorifying of <hi>God,</hi> to <hi>enjoy</hi> him for <hi>ever. Proved</hi> out of <hi>Pſal.</hi> 73.25, 26. <hi>Whom have in heaven but thee?</hi> and there is <hi>none</hi> upon earth <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> deſire beſide thee, v.</hi> 26. My fleſh and my heart <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> eth, but <hi>God is</hi> the ſirength of my heart, and <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> portion for ever.</hi>
+                  </item>
+               </list>
+               <p n="2">2. Q. <hi>What Rule hath God given to direct us, how we may glorifie, and enjoy him?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Word of God, which is contained in the Scriptures of the Old and New Teſtament, is the only Rule to direct us, how we may glorifie and enjoy him.</hi>
+               </p>
+               <p>
+                  <hi>The word of God is,</hi>
+                  <list>
+                     <item>1. Contained in the <hi>Scriptures</hi> of the Old, and New Teſtarnent. <hi>Eph.</hi> 2.20. And are built upon <hi>the found ition of the Apoſtles, and Prophets,</hi> Jeſus Chriſt himſelf being the chief Corner-ſtone.</item>
+                     <item>2. <hi>The onely Rule to direct us</hi>—How we may glo<g ref="char:EOLhyphen"/>rifie
+<pb n="8" facs="tcp:105630:5"/>God. 2 <hi>Tim.</hi> 3.16. <hi>All Scripture is given by in<g ref="char:EOLhyphen"/>ſpiration of God, and is proſitable for doctrine, for reproof, for correction, for inſtruction in righteouſneſs.</hi>
+                     </item>
+                     <item>3. How we may enjoy God. 1 <hi>Joh.</hi> 1.3. That which we have ſeen and heard, declare we unto you, <hi>that ye</hi> alſo <hi>may have fellowſhip with us, and truly our fellowſhip is with the Father, and with his Son Jeſus Chriſt.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="3">3. Q. <hi>What do the Scriptures principally teach?</hi>
+               </p>
+               <p>The Scriptures <hi>principally</hi> teach, what Man is to <hi>believe</hi> concerning <hi>God,</hi> and what <hi>duty</hi> God requires of Man. 2 <hi>Tim.</hi> 1.3. Hold faſt <hi>the form of ſound words,</hi> which thou haſt heard of me, <hi>in Faith, and Love,</hi> which is in Chriſt Jeſus.</p>
+               <p n="4">4. Q. <hi>What is God?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> God is a Spirit, infinite, eternal and un<g ref="char:EOLhyphen"/>changeable in his being, wiſdem, power, holineſs, statice, goodneſs, and truth.</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>Qod is,</hi> 1. A Spirit. <hi>Joh.</hi> 4.24. <hi>God is a Spirit,</hi> from they that worſhip him, muſt worſhip him in <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it, and in truth.</item>
+                  <item>2. Infinite. <hi>Joh.</hi> 11.7. <hi>Canſt thou by ſearching find out God? Canſt thou find out the Almighty to perfection?</hi>
+                  </item>
+                  <item>3. Eternal, <hi>Pſal.</hi> 90.2. <hi>From everlaſting, to ever<g ref="char:EOLhyphen"/>liſting, thou art God.</hi>
+                  </item>
+                  <item>4. Unchangeable. <hi>Jam.</hi> 1.17. <hi>With whom there is no variableneſs, neither ſhadow of turning.</hi>
+                  </item>
+                  <item>5. <hi>Infinite, Eternal, and <g ref="char:V">Ʋ</g>nchangeable in his Being, Exod.</hi> 3.14. And God ſaid unto Moſes, <hi>I am that I am.</hi> And he ſaid, Thus ſhalt thou ſay unto the Children of Iſrael, <hi>I am</hi> hath ſent me unto you.</item>
+                  <item>6. Infinite, Eternal, and Unchangeable in his Wiſdom. <hi>Pſal.</hi> 147.5. Great is our Lord, and
+<pb n="9" facs="tcp:105630:5"/>of great power, <hi>his <g ref="char:V">Ʋ</g>nderſtanding is infinite.</hi>
+                  </item>
+                  <item>7. Infinite, Eternal, and Unchangeable in his Power, and Holineſs. <hi>Rev.</hi> 4.8. <hi>Holy, holy, ho<g ref="char:EOLhyphen"/>ly, Lord God Almighty,</hi> which was, and is, and is to come.</item>
+                  <item>8. Infinite, Eternal, and Unchangeable in his Juſtice, Goodneſs, and Truth, <hi>Exod.</hi> 34.6, 7. The Lord, the Lord God, merciful, and gracious, long-ſuffering, and <hi>abundant in Goodneſs and Truth,</hi> keeping mercy for thouſands, forgiving iniquity, tranſgreſſion and ſin, <hi>and that will by no means clear the guilty.</hi>
+                  </item>
+               </list>
+               <p n="5">5. Q. <hi>Are there more Gods than one?</hi>
+                  <note place="margin">Second, Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> There is but one only, the living and true God.</hi>
+               </p>
+               <p>
+                  <hi>There is but one,</hi>
+                  <list>
+                     <item>1. Only God, <hi>Deut.</hi> 6.4. Hear, O Iſrael, <hi>The Lord our God is one Lord.</hi>
+                     </item>
+                     <item>2. Living and True God, <hi>Jer.</hi> 10.10. <hi>The Lord, he is the True God, he is the Living God, and an Ever<g ref="char:EOLhyphen"/>laſting King.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="6">6. Q. <hi>How many perſons are there in the God<g ref="char:EOLhyphen"/>head?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> There are three perſons in the Godhead, the Father, the Sell, and the Holy Ghoſt, and theſe Three are one God, the ſame in ſubſtance; equal in power, and glory.</hi>
+               </p>
+               <list>
+                  <item>1. There are <hi>three perſons</hi> in the Godhead, the <hi>Father,</hi> the <hi>Son,</hi> and the <hi>Holy Ghoſt, Mat.</hi> 28.19. Go ye therefore, and teach all Nations, baptizing them, <hi>in the Name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+                  </item>
+                  <item>2. The three perſons in the Godhead are <hi>one
+<pb n="10" facs="tcp:105630:6"/>God,</hi> the <hi>ſame</hi> in ſubſtance, <hi>equal</hi> in power, and glo<g ref="char:EOLhyphen"/>ry, 1 <hi>Joh.</hi> 5.7. There are three that bear record in Heaven the <hi>Father,</hi> the <hi>Word,</hi> and the <hi>Holy Ghoſt,</hi> and <hi>theſe three are one.</hi>
+                  </item>
+               </list>
+               <p n="7">7 Q. <hi>What are the Decrees of God?</hi>
+               </p>
+               <p>The <hi>Decrees</hi> of God are his <hi>Eternal purpoſe,</hi> accor<g ref="char:EOLhyphen"/>ding to the <hi>Counſel</hi> of his own <hi>Will,</hi> whereby, for his own <hi>Glory,</hi> he hath <hi>fore-ordained</hi> whatſoever comes to paſs. <hi>Eph.</hi> 1.11, 12. <hi>Being predeſtinated ac<g ref="char:EOLhyphen"/>cording to the purpoſe of him, who worketh all things af<g ref="char:EOLhyphen"/>ter the counſel of his own Will.</hi> 12. <hi>That we ſhould be to the praiſe of his glory.</hi>
+               </p>
+               <p n="8">8 Q. <hi>How dath God execute his Decrees?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> God executeth his Decrees, in the works of Creation and providence.</hi>
+               </p>
+               <p>
+                  <hi>God executeth his Decrees in the works,</hi>
+                  <list>
+                     <item>1. Of Creation, <hi>Rev.</hi> 4.11. Thou haſt created all things, and <hi>for thy pleaſure they are and were created.</hi>
+                     </item>
+                     <item>2. Of Providence, <hi>Dan.</hi> 4.35. <hi>He doth according to his Will in the army of heaven, and among the inha<g ref="char:EOLhyphen"/>bitants of the earth.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="9">9 Q. <hi>What in the work of Creation?</hi>
+                  <note place="margin">Third Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The work of Creation is Gods ma<g ref="char:EOLhyphen"/>king all things, of nothing, by the word of his power, in the ſpace of ſir days, and all very good.</hi>
+               </p>
+               <p>
+                  <hi>The work of Creation is Gods making,</hi>
+                  <list>
+                     <item>1. All things. <hi>Gen.</hi> 1.1. <hi>In the beginning God crea<g ref="char:EOLhyphen"/>ted the heaven and the earth.</hi>
+                     </item>
+                     <pb n="11" facs="tcp:105630:6"/>
+                     <item>2. All things of nothing, by the word of his power, <hi>Heb.</hi> 11.3. Through faith we underſtand, that <hi>the worlds were framed by the word of God, ſo that things, which are ſeen were not made of things that do appear.</hi>
+                     </item>
+                     <item>3. All things in the ſpace of ſix days, and all very good, <hi>Gen.</hi> 1.31. <hi>And God ſaw every thing that he had made, and behold, it was very good, and the evening and the morning were the ſixth day.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="10">10. Q. <hi>How did God create Man?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> God created Man, Male, and Female, after his own Image, in knowledg, righteouſneſs, and holineſs, with dominion over the creatures.</hi>
+               </p>
+               <p>
+                  <hi>God created man,</hi>
+                  <list>
+                     <item>1. Male, and Female, after his own Image, <hi>Gen.</hi> 1.27. <hi>So God created man in his own Image, in the I<g ref="char:EOLhyphen"/>mage of God created be him; male and female created he them.</hi>
+                     </item>
+                     <item>2. In Knowledg. <hi>Col.</hi> 3.10. <hi>And have put on the new Man, which is renewed in Knowledg, after the Image of him, that created him.</hi>
+                     </item>
+                     <item>3. In Righteouſneſs, and Holineſs, <hi>Epheſ.</hi> 4.24. <hi>And that ye put on the new man, which after God is created in Righteouſneſs, and true Holineſs.</hi>
+                     </item>
+                     <item>4. With dominion over the Creatures. <hi>Gen.</hi> 1.28. <hi>God bleſſed them, and God ſaid unto them, Be fruitful, and multiply, and repleniſh the earth, and ſubdue it, and have dominion over the fiſh of the ſea, and over the fowl of the air, and over every living thing, that moveth upon the earth.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="11">11 Q. <hi>What are Gods works of Providence?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Gods works of Providence are, his moſt holy, wiſe. and powerful preſerving, and governing all his creatures, and all their actions.</hi>
+               </p>
+               <pb n="12" facs="tcp:105630:7"/>
+               <p>
+                  <hi>Gods work of Providence are,</hi>
+                  <list>
+                     <item>1. Moſt holy. <hi>Pſal.</hi> 145.17. The Lord is Righ<g ref="char:EOLhyphen"/>teous in all his ways, and <hi>holy in all his works.</hi>
+                     </item>
+                     <item>2. Moſt wiſe. <hi>Iſa.</hi> 28.29. This alſo cometh forth from <hi>the Lord of hoſts, which is wonderful in counſel, excellent in working.</hi>
+                     </item>
+                     <item>3. His powerful <hi>preſerving</hi> all his Crcatures. <hi>Heb.</hi> 1.3. <hi>
+                           <g ref="char:V">Ʋ</g>pholding all things by the word of his power.</hi>
+                     </item>
+                     <item>4. His <hi>governing</hi> all his Creatures. <hi>Pſal.</hi> 103.19. <hi>His Kingdom ruleth over all.</hi>
+                     </item>
+                     <item>5. His <hi>governing</hi> all his Creatures <hi>actions.</hi> Mat. 10. 29. <hi>Are not two ſparrows ſold for a farthing? and one of them ſhall not fall to the ground without your Father.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="12">12. Q. <hi>What ſpecial act of Providence did God exerciſe toward Man, in the enate wherein he was created?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> When God had created Man. he entred into a Covenant of life with him, upon candition of perfect obedience, forbidding him, to eat of the tree of know<g ref="char:EOLhyphen"/>ledg of good and evil, upon pain of death.</hi>
+               </p>
+               <list>
+                  <item>1. When God had created man, he entred into <hi>a Covenant of life</hi> with him, upon condition of <hi>perfect obedience, Gal.</hi> 3.12. The Law is not of Faith, but <hi>the man that doth them, ſhall live in them.</hi>
+                  </item>
+                  <item>2. God forbade man, to eat of the tree of the <hi>knowledg of good and evil, <hi>upon pain</hi> of death, Gen.</hi> 2. 17. <hi>But of the Tree of Knowledg of good and evil, thou ſhalt not eat of it; for in the day thou eateſt thereof, thou ſhalt ſurely die.</hi>
+                  </item>
+               </list>
+               <p n="13">13 Q. <hi>Did our firſt Parents continue in the eſtate wherein they were created?</hi>
+                  <note place="margin">Fourth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Our firſt Parents being left to the freéédom of their own will, fell from the ſtate, wherein
+<pb n="13" facs="tcp:105630:7"/>they were created, <hi>by ſinning againſt God, Eccleſ.</hi>
+                  </hi> 7.29. <hi>God hath made man upright, but they have ſought out many inventions.</hi>
+               </p>
+               <p n="14">14 Q. <hi>What is ſin?</hi>
+               </p>
+               <p>Sin is as any <hi>want of conformity</hi> unto, or <hi>tranſgreſ<g ref="char:EOLhyphen"/>ſion</hi> of the Law of God. 1 <hi>John</hi> 3.4. Whoſoever com<g ref="char:EOLhyphen"/>mitteth ſin, tranſgreſſeth alſo the Law; for <hi>ſin is the tranſgreſſion of the Law.</hi>
+               </p>
+               <p n="15">15 Q. <hi>What was the ſin, whereby our firſt Pa<g ref="char:EOLhyphen"/>rents fell from the eſtate, wherein they were crea<g ref="char:EOLhyphen"/>ted?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The</hi> ſin <hi>whereby our firſt Parents fell from the eſtate wherein they were creared,</hi> was, <hi>their eat<g ref="char:EOLhyphen"/>ing the forbidden fruit.</hi> Gen. 3.6. <hi>When the woman ſaw, that the tree was good for food, and that it was plea<g ref="char:EOLhyphen"/>ſant to the eyes, and a tree to be deſired, to make one wiſe, he took of the fruit thereof, and did eat, and gave alſo to her husband with her, and he did eat.</hi>
+               </p>
+               <p n="16">16 Q. <hi>Did all mankind fall in Adams firſt tranſ<g ref="char:EOLhyphen"/>greſſion?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Cavenant being made with Adam not only for himſelf, but for his poſterity, all mankind, deſcending from him by ordinary generation, ſin<g ref="char:EOLhyphen"/>ned in him and fell with him, in his firſt tranſgreſ<g ref="char:EOLhyphen"/>greſſion.</hi>
+               </p>
+               <list>
+                  <item>
+                     <p>1. The Covenant was made with Adam. <hi>not only for himſelf, but for his poſterity.</hi> Gen. 3.28. &amp; 2.16, 17. <hi>God bleſſed them, and God ſaid unto them, Be fruitful, and multiply, and repleniſh the earth.</hi>
+                     </p>
+                     <q>
+                        <bibl>Gen. 2.16, 17.</bibl> The Lord commanded the man, ſaying, Of every tree in the garden, thou mayeſt freely eat. <hi>V. 17.</hi> But of the tree of the knowledg of good,
+<pb n="14" facs="tcp:105630:8"/>and evil, thou ſhalt not eat of it; for in the day thou eateſt thereof thou ſhalt ſurely die.</q>
+                  </item>
+                  <item>2. All mankind, deſcending from <hi>Adam</hi> by <hi>ordi<g ref="char:EOLhyphen"/>nary</hi> generation, ſinned in him, and fell with him, in his <hi>firſt</hi> Tranſgreſſion. <hi>Rom.</hi> 5.18. <hi>By the offence of one, judgment came upon all men to condemnation.</hi>
+                  </item>
+               </list>
+               <p n="17">17 Q. <hi>Into what eſtate did the fall bring mankind?</hi>
+                  <note place="margin">Fifth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The fall brought mankind into an eſtate of ſin and miſery. <hi>Rom.</hi>
+                  </hi> 5.12. <hi>By one man ſin entred into the world, and death by ſin, and ſo death paſſed upon all men, for that all have ſinned.</hi>
+               </p>
+               <p n="18">18 Q. <hi>Wherein conſiſts the Sinfulneſs of that eſtate, whereinto man fell?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Sinfulneſs of that eſtate whereinto man fell, conſiſts in the guilt of Adams firſt Sin, the want of Original Righteouſneſs, and the corruption of his whole nature, which is commonly called Original Sin? togéther with all actual tranſgreſſi<g ref="char:EOLhyphen"/>ons which procéeded from it.</hi>
+               </p>
+               <p>
+                  <hi>The ſinfulneſs of that eſtate whereinto man fell, con<g ref="char:EOLhyphen"/>ſiſts in,</hi>
+                  <list>
+                     <item>1. The guilt of Adams <hi>firſt</hi> ſin. <hi>Rom.</hi> 5.19. <hi>By one mans diſobedience, many were made ſinners.</hi>
+                     </item>
+                     <item>2. The want of Original Righteouſneſs. <hi>Rom.</hi> 3.10. <hi>There is none righteous, no not one.</hi>
+                     </item>
+                     <item>3. The <hi>Corruption</hi> of his <hi>whole nature,</hi> which is commonly call'd <hi>Original</hi> ſin. <hi>Eph.</hi> 2.1. <hi>Pſal.</hi> 51.5 You hath he quickned, <hi>who were dead in treſpaſſes and ſins.</hi> Pſal. 51.5. Behold, <hi>I was ſhapen in iniqui<g ref="char:EOLhyphen"/>ty, and in ſin did my mother conceive me.</hi>
+                     </item>
+                     <item>4. All <hi>Actual Tranſgreſſions,</hi> which proceed from <hi>Original</hi> ſin. <hi>Mat.</hi> 15.19, 20. <hi>Out of the heart proceed
+<pb n="15" facs="tcp:105630:8"/>evil thoughts, murthers, adulteries, fornications, theft, falſe witneſs, blaſphemies.</hi> V. 20. <hi>Theſe are the things which defile a man.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="19">19 Q. <hi>What is the miſery of that eſtate, where<g ref="char:EOLhyphen"/>into man fell?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> All mankind by their fall, loſt communion with God, are under his wrrath and curſe, and ſo made liable to all miſeries in this life, to death it ſelf, and to the pains of Hell for ever.</hi>
+               </p>
+               <p>
+                  <hi>All mankind by their fall,</hi>
+                  <list>
+                     <item>1. Loſt <hi>communion</hi> with God. <hi>Gen.</hi> 3.8, 24. <hi>A<g ref="char:EOLhyphen"/>dam, and his wife hid themſelves from the preſence of the Lord, among the trees of the garden.</hi> 24. <hi>So he drove out the man.</hi>
+                     </item>
+                     <item>2. Are under Gods <hi>wrath. Eph.</hi> 2.3. <hi>We were all by nature the children of wrath, even as others.</hi>
+                     </item>
+                     <item>3. Are under Gods curſe. <hi>Gal.</hi> 3.10. <hi>Curſed is every one, that continueth not in all things, which are written in the book of the Law to do them.</hi>
+                     </item>
+                     <item>4. <hi>Are made liable</hi> to all <hi>miſeries</hi> in this life. <hi>Lam.</hi> 3.39. <hi>Wherefore doth a living man complain? a man, for the puniſhment of his ſins?</hi>
+                     </item>
+                     <item>5. Are made liable to <hi>death</hi> it ſelf. <hi>Rom.</hi> 6.23. <hi>The wages of ſin is death?</hi>
+                     </item>
+                     <item>6. Are made liable to the <hi>pains</hi> of <hi>Hell</hi> for <hi>ever<g ref="char:EOLhyphen"/>Mar.</hi> 25.41. <hi>Then ſhall he ſay to them on the left hand, Depart from me, ye curſed, into everlaſting fire, prepared for the Devil and his Angels.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="20">20 Q. <hi>Did God leave all mankind, to periſh in the eſtate of ſin, and miſery?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> God having, out of his meer good pleaſure, from all eternity, elected ſome to everlaſting life, did enter into a Covenant of grace, to deliver
+<pb n="16" facs="tcp:105630:9"/>them out of the ſtate of ſin, and miſery, andto bring them into an eſtate of ſalvation by a Redeemer.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>God,</hi> out of his <hi>meer</hi> good <hi>pleaſure,</hi> from all <hi>eternity, elected ſome to</hi> everlaſting <hi>life.</hi> Eph. 1.4. <hi>He hath choſen us in him, before the ſoundation of the world.</hi>
+                  </item>
+                  <item>2. <hi>God</hi> did enter into a <hi>Covenant of Grace,</hi> to de<g ref="char:EOLhyphen"/>liver his <hi>Elect,</hi> out of the eſtate of <hi>ſin</hi> iand <hi>mi<g ref="char:EOLhyphen"/>ſery,</hi> and to bring them into an eſtate of <hi>Salvati<g ref="char:EOLhyphen"/>on,</hi> by a <hi>Redeemer. Rom.</hi> 3.21, 22. But now, <hi>the Righteouſneſs of God, without the Law, is manifeſted, being</hi> witneſſed by the Law, and the Prophets. 22. <hi>Even the Righteouſneſs of God, which is by Faith of Jeſus Chriſt, unto all, and upon all them, that be<g ref="char:EOLhyphen"/>lieve.</hi>
+                  </item>
+               </list>
+               <p n="21">21 Q. <hi>Who is the Redéémer of Gods E<g ref="char:EOLhyphen"/>lect?</hi>
+                  <note place="margin">Sixth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The only Redéémer of Gods Elect, is the Lord Ieſus Chriſt, who being the eternal Son of God, became man, and ſo was, and conti<g ref="char:EOLhyphen"/>nueth to be God and man, in two diſtinct natures and one perſon for ever.</hi>
+               </p>
+               <p>
+                  <hi>The Lord Jeſus Chriſt.</hi>
+               </p>
+               <list>
+                  <item>1. Is the <hi>only Redeemer</hi> of Gods elect, 1 <hi>Tim.</hi> 2.5. There is one God, and <hi>one Mediator between God and man, the man Jeſus Chriſt.</hi>
+                  </item>
+                  <item>2. Being the Eternal <hi>Son of God,</hi> became <hi>Man, Joh.</hi> 1.14. <hi>The Word was made fleſh, and dwelt among us.</hi>
+                  </item>
+                  <item>3. Was <hi>God and man, in two</hi> diſtinct natures, and <hi>one</hi> perſon. <hi>Rom.</hi> 9.5. <hi>Of whom Chriſt came in the fleſh? Chriſt came, who is over all, God bleſſed for ever.</hi>
+                  </item>
+                  <item>4. <hi>Continues</hi> to be God and man, <hi>for ever.</hi>
+                     <pb n="17" facs="tcp:105630:9"/>
+                     <hi>7.24.</hi> This man, becauſe be continueth ever, hath an unchangeable Prieſthood.</item>
+               </list>
+               <p n="22">22. Q. <hi>How did Chriſt, being the Son of God, be<g ref="char:EOLhyphen"/>come Man?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Chriſt the Son of God, became man, by ta<g ref="char:EOLhyphen"/>king to himſelf a true body, and a reaſonable ſoul, being conceived by the power of the Holy Ghoſt, in the womb of the Virgin Mary, and born of her, and yet without ſin.</hi>
+               </p>
+               <p>
+                  <hi>Chriſt the Son of God became man,</hi>
+                  <list>
+                     <item>
+                        <hi>1. By taking to himſelf a</hi> true body. Heb. <hi>1.14.</hi> For as much then, as the children are partakers of fleſh and blood, he alſo himſelf likewiſe, took part of the ſame.</item>
+                     <item>
+                        <hi>2. By taking to himſelf</hi> a reaſonable ſoul. Mat. <hi>26. 38.</hi> Then ſaith he unto them, my ſoul is exceeding ſor<g ref="char:EOLhyphen"/>rowful, even unto death.</item>
+                     <item>
+                        <hi>3. By being conceived by the power</hi> of the Holy Ghoſt, <hi>in the womb of the</hi> Virgin Mary, <hi>and</hi> born of her. Luk. <hi>1.31, 35.</hi> Behold, thou ſhalt conceive in thy womb, and bring forth a Son, and ſhalt call his name Teſus. <hi>35.</hi> The Holy Ghoſt ſhall come upon thee, and the power of the Higheſt ſhall overſhadow thee.</item>
+                     <item>
+                        <hi>4.</hi> Chriſt was conceived, and born without ſin. Heb. <hi>7.26.</hi> Such an high Prieſt became us, who is holy, harm<g ref="char:EOLhyphen"/>leſe, undeſiled, ſeparate from ſniners.</item>
+                  </list>
+               </p>
+               <p n="23">23. Q. <hi>What Offices doth Chriſt execute as our Redeemer?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Chriſt as our Redeemer executeth the offices of a Prophet, of a Prieii, and of a Ring, hoth in his eſtate of Humiliation, and Exaltation.</hi>
+               </p>
+               <p>
+                  <hi>Chriſt as our Redeemer, both in the eſtate of Humili<g ref="char:EOLhyphen"/>ation, and Exaltation, executeth the office of,</hi>
+                  <list>
+                     <item>1. A Prophet. <hi>Acts</hi> 3.22. Moſes truly ſaid unto
+<pb n="18" facs="tcp:105630:10"/>the Fathers, <hi>A Prophet ſhall the Lord your God raiſe up unto you, of your brethren, like unto me,</hi> him ſhall ye <hi>hear in all things,</hi> whatſoever he ſhall ſay unto you.</item>
+                     <item>2. A Prieſt. <hi>Heb.</hi> 5.6. <hi>Thou art a Prieſt for ever, after the order of Melehizedec.</hi>
+                     </item>
+                     <item>3. A King. <hi>Pſal.</hi> 2.6. <hi>Yet have I ſet my King up in my holy Hill of Sion.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="24">24. Q. <hi>How doth Chriſt execute the office of a Prophet?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Chriſt execuicth the Office of Prophet, in re<g ref="char:EOLhyphen"/>vealing to us, bohts Word, and Spirit, the Will of God, for our ſalvatiou.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>Chriſt executeth the Office of a Prophet in veve aling to us the will of God for our ſalvation, Joh.</hi> 15.18. No man hath ſeen God at any time <hi>the only begot<g ref="char:EOLhyphen"/>ten Son, which is in the beſom of the Father, he hath declared him.</hi>
+                  </item>
+                  <item>2. Chriſt reveals to us the Will of God, by his Word. <hi>John</hi> 20.31. <hi>Theſe things are written, that ye might believe, that Jeſus is the Chriſt, the Son of God, and that believing, ye might have life through his Name.</hi>
+                  </item>
+                  <item>3. Chriſt reveals to us the Will of God, by his Spirit. <hi>John</hi> 14.26. <hi>The Comforter, which is the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, whom the Father will ſend in my Name, he ſhall teach you Allthings.</hi>
+                  </item>
+               </list>
+               <p n="25">25. Q. <hi>How doth Chriſt execure the Office of a Prieſt?</hi>
+                  <note place="margin">Seventh Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Chriſt executeth the office of a Prieſt, in his once offering up of himſelf, a ſacri<g ref="char:EOLhyphen"/>fice, to ſatisfie divine Iuſtice, and to recoucile us to God, and in making continual interceſſion for us.</hi>
+               </p>
+               <pb n="19" facs="tcp:105630:10"/>
+               <p>
+                  <hi>Chriſt executeth the office of a Prieſt,</hi>
+                  <list>
+                     <item>1. <hi>In his once offering up of himſelf, a ſacrifice, to ſatisſie</hi> divine Juſtice. <hi>Heb.</hi> 9.28. <hi>Chriſt was once of<g ref="char:EOLhyphen"/>fered, to hear the ſins of many.</hi>
+                     </item>
+                     <item>2. In his once offering up of himſelf, a ſacrifice, to <hi>reconcile</hi> us to God. <hi>Heb.</hi> 2.17. In all things it behoved him to be made like unto his brethren, <hi>that he might be a merciful, and faithful High-Prieſt, in things pertaining to God, to make reconciliation for the ſuis of the people.</hi>
+                     </item>
+                     <item>3. In making continual interceſſion for us. <hi>Heb.</hi> 7.25. He is able to ſave to the uttermoſt, them that come unto God by him, <hi>ſeeing he ever liveth, to make mterceſſion for them.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="26">26. Q. <hi>How doth Chriſt execute the office of a Ring?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Chriſt executeth the office of a Ring. In ſub<g ref="char:EOLhyphen"/>duing us to himſelf, in ruling, and defending us, and in reſtraining, and conquering, all his, and our Enemies.</hi>
+               </p>
+               <p>
+                  <hi>Chriſt executeth the office of a King.</hi>
+               </p>
+               <list>
+                  <item>1. In ſubduing us to himſelf. <hi>Pſal.</hi> 110.3. <hi>Thy people ſhall be willing in the day of thy power.</hi>
+                  </item>
+                  <item>2. In ruling, and deſending us. <hi>Iſa.</hi> 33.22. <hi>The Lord is our Judg, the Lord is our Law giver, the Lord is our King, he will ſave us.</hi>
+                  </item>
+                  <item>3. In reſtraining, and conquering, all his, and our enemies. 1 <hi>Cor.</hi> 15.25. <hi>He muſt reign, tall he hath put all his enemies under his feet.</hi>
+                  </item>
+               </list>
+               <p n="27">27. Q. <hi>Wherein did Chriſts Humiliation conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Chriſts Humiliation conſiſted, in his being born, and that in a low condition, made mider the Law, underging the miſeries of this ſhe, the wrath
+<pb n="20" facs="tcp:105630:11"/>of God, and the curſed death of the croſs, in being buried, and continuing under the power of death for a time.</hi>
+               </p>
+               <p>
+                  <hi>Chriſts Humiliation conſiſted in his,</hi>
+                  <list>
+                     <item>1. Being born, and that in a low condition. <hi>Luk.</hi> 2.7. <hi>She brought forth her firſt born Son, and wrapped him in ſwadling clothes, and laid him in a manger.</hi>
+                     </item>
+                     <item>2. Being made under the Law. <hi>Gal.</hi> 4.4. God ſent forth <hi>his Son,</hi> made of a woman, <hi>made under the Law.</hi>
+                     </item>
+                     <item>3. Undergoing the miſeries of this life. <hi>Iſa.</hi> 53.3. <hi>He is deſpiſed, and rejected of men, a man of ſorrows, and acquainted with grief.</hi>
+                     </item>
+                     <item>4. Undergoing the wrath of God. <hi>Mat.</hi> 27.46. <hi>Jeſus cried with a loud voice, My God, my God, why haſt thou forſaken me?</hi>
+                     </item>
+                     <item>5. Undergoing the curſed death of the Croſs. <hi>Phil.</hi> 2.8. <hi>He humbled himſelf, and became obedient unto death, even the death of the Croſs.</hi>
+                     </item>
+                     <item>6. Being buried. 1 <hi>Cor.</hi> 15.4. <hi>That he was bu<g ref="char:EOLhyphen"/>ried.</hi>
+                     </item>
+                     <item>7. Continuing under the power of death for a time. <hi>Mat.</hi> 12.40. <hi>As Jonas was three days, and three nights, in the whales belly, ſo ſhall the Son of man be, three days, and three nights in the heart of the earth.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="28">28. Q. <hi>Wherein conſiſteth Chriſts Eraltation?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Chriſts Eraltation conſiſteth in his riſing a<g ref="char:EOLhyphen"/>gain from the dead, on the third day, in aſcending up into heaven, and ſltting at the right hand of God the Father, and in coming to judg the world at the laſt day.</hi>
+               </p>
+               <p>
+                  <hi>Chriſts Exaltation conſiſteth in his,</hi>
+                  <pb n="21" facs="tcp:105630:11"/>
+                  <list>
+                     <item>1. Riſing again from the dead, on the third day. 1 <hi>Cor.</hi> 15.4. <hi>That he roſe again the third day, according to the Scriptures.</hi>
+                     </item>
+                     <item>2. Aſcending up into heaven. <hi>Mar.</hi> 16.19. Af<g ref="char:EOLhyphen"/>ter the Lord had ſpoken unto them, <hi>he was received up into heaven.</hi>
+                     </item>
+                     <item>3. Sitting at the right hand of God the Father. <hi>Mark</hi> 16.19. He was received up into heaven, and <hi>ſat at the right hand of God.</hi>
+                     </item>
+                     <item>4. Coming to <hi>judg</hi> the world at the laſt day. <hi>Act.</hi> 17.31. <hi>He hath appointed a day, in the which, he will judg the world in Righteouſneſs, by that man, whom he hath ordained, whereof he hath given aſſurance unto all men, in that he hath raiſed him from the dead.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="29">29 Q. <hi>How are we made partakers of the Redemption purchaſed by Chriſt?</hi>
+                  <note place="margin">Eighth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> We are made partakers of the Redem<g ref="char:EOLhyphen"/>ption purchaſed by Chriſt, by the effectual applicati<g ref="char:EOLhyphen"/>on of it to us, by his holy Spirit.</hi>
+               </p>
+               <p>
+                  <hi>We are made partakers of the Redemption purchaſed by Chriſt,</hi>
+                  <list>
+                     <item>1. By the effectual application of it to us. <hi>Joh.</hi> 1.12. <hi>As many, as received him, to them gave he power, to become the Sons of God.</hi>
+                     </item>
+                     <item>2. By his holy Spirit. <hi>Tit.</hi> 3.5, 6. According to his mercy, he ſaved us by the waſhing of re<g ref="char:EOLhyphen"/>generation, and <hi>renewing of the Holy Ghoſt.</hi> v. 6. <hi>Which he ſhed on us abundantly, through Jeſus Chriſt our Sa<g ref="char:EOLhyphen"/>viour.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="30">30 Q. <hi>How doth the Spirit apply to us the Re<g ref="char:EOLhyphen"/>demption purchaſed by Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Spirit applieth to us the Redemption purchaſed by Chriſt, by working Faith in us; and
+<pb n="22" facs="tcp:105630:12"/>thereby uniting us to Chriſt, in our effectual cal<g ref="char:EOLhyphen"/>ling.</hi>
+               </p>
+               <p>
+                  <hi>The Spirit applies to us the Redemption purchaſed by Chriſt.</hi>
+                  <list>
+                     <item>1. By working Faith in us. <hi>Eph.</hi> 2.8. By grace ye are ſaved, <hi>through faith, and that not of your ſelves, It is the gift of God.</hi>
+                     </item>
+                     <item>2. <hi>By uniting us to Chriſt</hi> by Faith. <hi>Eph.</hi> 3.17. <hi>That Chriſt may dwell in your hearts by Faith.</hi>
+                     </item>
+                     <item>3. The Spirit unites us to Chriſt in our effectu<g ref="char:EOLhyphen"/>al calling. 1 <hi>Cor.</hi> 1.9. God is faithful, <hi>by whom ye were called into the fellowſhip, of his Son Jeſus Chriſt.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="31">31 Q. <hi>What is Effectual Calling?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Effectual Calling, is the work of Gods Spi<g ref="char:EOLhyphen"/>rit, whereby, convincing us, of our ſin, and miſe<g ref="char:EOLhyphen"/>ry, enlightning our minds in the knowledg of Chriſt, and renewing our Wills, he doth perſwade, and enable us, to embrace Ieſus Chriſt, freely offered to us in the Goſsel.</hi>
+               </p>
+               <list>
+                  <item>1. Effectual Calling is the work of Gods Spirit 2 <hi>Tim.</hi> 1.9. <hi>Who hath ſaved us, and called us, with an holy calling.</hi>
+                  </item>
+                  <item>2. <hi>In effectual Calling, the Spirit of God</hi> convin<g ref="char:EOLhyphen"/>ceth us, of ſin, and miſery. <hi>Act.</hi> 2.37. When they heard this, <hi>they were pricked in their hearts, and ſaid unto</hi> Peter, and the reſt of the Apoſtles, <hi>Men and brethren, what ſhall we do?</hi>
+                  </item>
+                  <item>3. The Spirit of God enlightneth our minds in the knowledg of Chriſt. <hi>Act.</hi> 26.18. <hi>To open their eyes, and to turn them, from darkneſs to light, and from the power of Satan unto God.</hi>
+                  </item>
+                  <item>4. The Spirit of God renews our wills. <hi>Ezek.</hi>
+                     <pb n="23" facs="tcp:105630:12"/>36.26. <hi>I will take away the ſtony heart, out of your fleſh, and I will give you an heart of fleſh.</hi>
+                  </item>
+                  <item>5. The Spirit of God perſwades, and enables us, to embrace Jeſus Chriſt, freely offered to us in the Goſpel. <hi>Joh.</hi> 6.44, 45. <hi>No man can come unto me, except the Father, who hath ſent me, draw him. <hi>45</hi> Eve<g ref="char:EOLhyphen"/>ry man, that hath heard, and learned of the Father, co<g ref="char:EOLhyphen"/>meth unto me.</hi>
+                  </item>
+               </list>
+               <p n="32">32 Q. <hi>What benefits do they, that are effectual<g ref="char:EOLhyphen"/>ly called, partake of, in this life?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> They, that are effectually called, do, in this life, partake of Iuſtification, Adoption, Sanctifica<g ref="char:EOLhyphen"/>tion, and the ſeveral benefits, which, in this life, do either accompany, or flow from them.</hi>
+               </p>
+               <p>
+                  <hi>They, that are effectually called, do, in this life, par<g ref="char:EOLhyphen"/>take of,</hi>
+                  <list>
+                     <item>1. Juſtification. <hi>Rom.</hi> 8.30. <hi>Whom he called, them he alſo juſtified;</hi> and whom he juſtified, them he al<g ref="char:EOLhyphen"/>ſo glorified.</item>
+                     <item>2. Adoption. <hi>Eph.</hi> 1.5. <hi>Having predeſtinated us to the adoption of children, by Jeſus Chriſt, unto himſelf.</hi>
+                     </item>
+                     <item>3. Sanctification, and ſeveral other <hi>benefits,</hi> which in <hi>this</hi> life, do either <hi>accompany,</hi> or <hi>flow from</hi> Juſtifi<g ref="char:EOLhyphen"/>cation, Adoption, and Sanctification. 1 <hi>Cor.</hi> 1.30. Of him, ye are in Chriſt Jeſus, <hi>who, of God, is made unto us, wiſdom, and righteouſneſs, and ſanctification, and redemption.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="33">33 Q. <hi>What is juſtification?</hi>
+                  <note place="margin">Ninth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Iuſtification is an Act of Gods free-grace, wherein he pardoneth all our ſins, and accepteth us, as righteous in his ſight, only for the righteouſneſs of Chriſt, imputed to us, and received by Faith alone.</hi>
+               </p>
+               <list>
+                  <pb n="24" facs="tcp:105630:13"/>
+                  <item>1. Juſtification is an Act of Gods free-grace. <hi>Rom.</hi> 3.24. <hi>Being juſtified freely by his grace, through the redemption, that is in Jeſus Chriſt.</hi>
+                  </item>
+                  <item>2. <hi>In Juſtification, God pardoneth</hi> all our ſins. <hi>Eph.</hi> 1.7. <hi>In whom, we have redemption, through his blood, the forgiveneſs of ſins, according to the riches of his grace.</hi>
+                  </item>
+                  <item>3. In juſtification, God accepteth us, as Righ<g ref="char:EOLhyphen"/>teous in his ſight. 2 <hi>Cor.</hi> 5.21. He hath made him ſin for us, that knew no ſin, <hi>that we might be made the righteouſneſs of God in him.</hi>
+                  </item>
+                  <item>
+                     <p>4. We are accepted, as Righteous in Gods ſight, <hi>only for the Righteouſneſs of Chriſt imputed to us.</hi>
+                     </p>
+                     <p>
+                        <hi>Rom.</hi> 5.19. As by one mans diſobedience, many were made ſinners; <hi>ſo by the obedience of one, ſhall many be made righteous.</hi>
+                     </p>
+                  </item>
+                  <item>5. The Righteouſneſs of Chriſt, which is impu<g ref="char:EOLhyphen"/>ted to us by God, for our Juſtification, <hi>is received by Faith alone. Gal.</hi> 2.26. Knowing, <hi>that a man is</hi> not <hi>juſtified by</hi> the works of the Law, but <hi>by the Faith of Jeſus Chriſt, even we have believed in Jeſus Chriſt, that we might be juſtified by the Faith of Chriſt.</hi>
+                  </item>
+               </list>
+               <p n="34">34 Q. <hi>What is Adoption?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Adoption is an act of Gods Free-grace, where<g ref="char:EOLhyphen"/>by, we are received into the number, and have right to all the priviledges of the Sons of God.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>Adoption</hi> is an Act of Gods Free-grace. 1 <hi>Joh.</hi> 3.1. <hi>Behold, what manner of love the Father hath be<g ref="char:EOLhyphen"/>ſtowed upon us, that we ſhould be called the Sons of God!</hi>
+                  </item>
+                  <item>2. <hi>By Adoption we</hi> are received into the num<g ref="char:EOLhyphen"/>ber of the <hi>Sons</hi> of God. <hi>Joh.</hi> 1.12. <hi>As many, as
+<pb n="25" facs="tcp:105630:13"/>received him, to them gave he power, to become the Sons of God, even to them, that believe on his Name.</hi>
+                  </item>
+                  <item>3. By Adoption, we have right to all the <hi>Privi<g ref="char:EOLhyphen"/>ledges</hi> of the Sons of God. <hi>Rom.</hi> 8.17. <hi>If chil<g ref="char:EOLhyphen"/>dren, then heirs, heirs of God, and joynt-heirs with Chriſt.</hi>
+                  </item>
+               </list>
+               <p n="35">35 Q. <hi>What is Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Sanctification is the worrk of Gods frée-grace, whereby, we are renewed in the whole man, after the Image of God, and are enabled, more and more to die unto ſin, and to live unto righteouſneſs.</hi>
+               </p>
+               <list>
+                  <item>1. Sanctification is the work of Gods free-grace. 2 <hi>Theſ.</hi> 2.13. <hi>God hath from the beginning, choſen you to ſalvation, through ſanctification of the Spirit.</hi>
+                  </item>
+                  <item>2. <hi>By Sanctification, we are renewed</hi> in the <hi>whole.</hi> Man, after the <hi>Image</hi> of God. <hi>Eph.</hi> 4.24. And that ye put on the <hi>new man, which, after God, is created in righteouſneſs, and true holineſs.</hi>
+                  </item>
+                  <item>3. By Sanctification we are <hi>enabled,</hi> more and more, <hi>to die unto ſin, and to live unto righteouſneſs. Rom.</hi> 8.1. There is no condemnation, <hi>to them, that are in Chriſt Jeſus, who walk not after the fleſh, but after the Spirit.</hi>
+                  </item>
+               </list>
+               <p n="36">36 Q. <hi>What are the benefits, which, in this life, do either accompany or flow from Iuſtification, Ado<g ref="char:EOLhyphen"/>ption, and Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The benefits, which, in this life, do accom<g ref="char:EOLhyphen"/>pany or ſlow from Iuſtification, Adoption, and San<g ref="char:EOLhyphen"/>ctification, are aſſurance of Gods love, peace of Con<g ref="char:EOLhyphen"/>ſeience, joy in the Holy Ghoſt, increaſe of Grace, and perſeverance therein, unto the end.</hi>
+               </p>
+               <p>
+                  <hi>The benefits, which, in this life, do either accom<g ref="char:EOLhyphen"/>pany, or flow from Juſtification, Adoption, and Sancti<g ref="char:EOLhyphen"/>fication, are,</hi>
+               </p>
+               <pb n="26" facs="tcp:105630:14"/>
+               <list>
+                  <item>1. Aſſurance of Gods Love. <hi>Rom.</hi> 5.5. Hope maketh not aſhamed, becauſe <hi>the love of God is ſhed abroad in our bearts, through the Holy Ghoſt,</hi> which is given unto us.</item>
+                  <item>
+                     <p>2. Peace of <hi>Conſcience. Rom.</hi> 5.1. <hi>Being juſtified by Faith, we have peace with God, through our Lord Jeſus Chriſt.</hi>
+                     </p>
+                     <p>
+                        <hi>Phil.</hi> 4.7. <hi>The peace of God,</hi> which paſſeth all un<g ref="char:EOLhyphen"/>derſtanding, <hi>ſhall keep your hearts, and minds, through Chriſt Jeſus.</hi>
+                     </p>
+                  </item>
+                  <item>3. Joy in the Holy Ghoſt. <hi>Rom.</hi> 5.2. By whom alſo we have acceſs, by Faith, into this grace, wherein we ſtand, <hi>and rejoyce in hope of the glory of God.</hi>
+                  </item>
+                  <item>4. Increaſe of Grace. <hi>Prov.</hi> 4.18. <hi>The path of the juſt, is as the ſhining light, that ſhineth more, and more, unto the perfect day.</hi>
+                  </item>
+                  <item>
+                     <p>5. Perſeverance in <hi>Grace</hi> unto the end. 1 <hi>John</hi> 5.13. Theſe things have I written unto <hi>you, that Be<g ref="char:EOLhyphen"/>lieve on the Name of the Son of God, that ye may know, that ye have eternal life.</hi>
+                     </p>
+                     <p>1 Pet. 1.5. <hi>Who are kept by the power of God, through Faith unto ſalvation.</hi>
+                     </p>
+                  </item>
+               </list>
+               <p n="37">37 Q. <hi>What benefits do Believers re<g ref="char:EOLhyphen"/>ceive from Chriſt at their death?</hi>
+                  <note place="margin">Tenth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ſouls of Believers, are, at their death, made perfect in holineſs, and do immediately paſs into Glory, and their bodies, being ſtill unſted to Chriſt, do reſt in their Graves, till the Reſur<g ref="char:EOLhyphen"/>rection.</hi>
+               </p>
+               <p>
+                  <hi>At their death, Believers,</hi>
+               </p>
+               <list>
+                  <item>1. <hi>Souls,</hi> are made perſect in holineſs, <hi>Heb.</hi> 12.23. <hi>To the ſpirits of juſt men, made perfect.</hi>
+                  </item>
+                  <item>2. <hi>Souls</hi> do immediately paſs into Glory. <hi>Phil.</hi>
+                     <pb n="27" facs="tcp:105630:14"/>1.23. Having a deſire, <hi>to depart, and to be with Chriſt.</hi>
+                     <q>
+                        <bibl>
+                           <hi>Luk. 23.43.</hi>
+                        </bibl> To day ſhalt thou be with me in Para<g ref="char:EOLhyphen"/>diſe.</q>
+                  </item>
+                  <item>3. <hi>Bodies,</hi> are ſtill united unto Chriſt. 1 <hi>Theſ.</hi> 4.14. <hi>Them, which ſleep in Jeſus,</hi> will God bring with him.</item>
+                  <item>4. Bodies do reſt in their Graves. <hi>Iſa.</hi> 57.2. He ſhall enter into peace, <hi>they ſhall reſt in their beds,</hi> each one walking in his uprightneſs.</item>
+                  <item>5. Bodies, do <hi>reſt</hi> in their <hi>Graves,</hi> till the <hi>Reſur<g ref="char:EOLhyphen"/>rection. Joh</hi> 19.26. <hi>Though, after my skin, worms deſtroy this body, yet in my fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſh ſhall I ſee God.</hi>
+                  </item>
+               </list>
+               <p n="38">38 Q. <hi>What benefits do Believers receive from Chriſt at the Reſurrection?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> At the Reſinrection, Believers being raiſed up in Glary, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all be openly acknowledged, and ac<g ref="char:EOLhyphen"/>quitted, in the day of Iudgment, and made perfect<g ref="char:EOLhyphen"/>ly bleſſed, in full enjoying of God, to all Eter<g ref="char:EOLhyphen"/>nity.</hi>
+               </p>
+               <p>
+                  <hi>At the Reſurrection, Believers ſhall be,</hi>
+                  <list>
+                     <item>1. Raiſed up in Glory. 1 <hi>Cor.</hi> 15.43. It is ſower in diſhonour, <hi>it is raiſed in glory.</hi>
+                     </item>
+                     <item>2. Openly <hi>acknowledged,</hi> and <hi>acquitted,</hi> in the da<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of judgment. <hi>Mat.</hi> 10.32. <hi>Whoſoever ſhall confeſs m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> before men, him will I alſo confeſs before my Father which is in Heaven.</hi>
+                     </item>
+                     <item>3. Made perlectly bleſſed, <hi>in full enjoying of God</hi> 1 <hi>John</hi> 3.2. When he ſhall appear, we ſhall be like him; for <hi>we ſhall ſee him, as he is.</hi>
+                     </item>
+                     <item>4. Bleſſed in the enjoying of God, <hi>to all Eter<g ref="char:EOLhyphen"/>nity,</hi> 1 Theſ. 4.17. <hi>So ſhall we ever be with th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Lord.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="28" facs="tcp:105630:15"/>
+               <p n="39">39 Q. <hi>What is the duty, which God requireth of Man?</hi>
+               </p>
+               <p>
+                  <hi>The duty which God requireth of man, is obe<g ref="char:EOLhyphen"/>dience to his revealed will. <hi>Mic.</hi>
+                  </hi> 6.8. <hi>He hath ſhew<g ref="char:EOLhyphen"/>ed thee, O man, what is good; and what doth the Lord require of thee, but to do juſtly, and to love mercy, and to walk humbly with thy God?</hi>
+               </p>
+               <p n="40">40 Q. <hi>What did God at firſt reveal unto Man, for the Rule of his Obedience?</hi>
+               </p>
+               <p>
+                  <hi>The Rule, which God at firſt revealed to man, for his obedience, was the Moral Law.</hi>
+               </p>
+               <q>
+                  <bibl>
+                     <hi>Rom. 2.14, 15.</hi>
+                  </bibl> When the Gentiles, which have not the Law, do, by nature, the things contained in the Law, theſe having not the Law, are a Law unto them<g ref="char:EOLhyphen"/>ſelves. <hi>15.</hi> Which ſhew the work of the Law written in their hearts.</q>
+               <p n="41">41 Q. <hi>Where is the Moral Law ſum<g ref="char:EOLhyphen"/>marily comprehended?</hi>
+                  <note place="margin">Eleventh Day.</note>
+               </p>
+               <p>
+                  <hi>The Moral Law, is ſummarily compre<g ref="char:EOLhyphen"/>hended in the Ten Commandments. Deut.</hi> 10.4. <hi>He wrote on the Tables, according to the firſt wri<g ref="char:EOLhyphen"/>ting, the Ten Commandments.</hi>
+               </p>
+               <q>
+                  <bibl>
+                     <hi>Mat. 19.17.</hi>
+                  </bibl> If thou wilt enter into life, keep the Commandments.</q>
+               <p n="42">42 Q. <hi>What is the ſum of the Ten Command<g ref="char:EOLhyphen"/>ments?</hi>
+               </p>
+               <p>The ſum of the Ten Commandments, is, to love,
+<list>
+                     <item>1. <hi>The Lord our God, with all our heart, with all our ſoul, with all our ſtrength, and with all our mind,</hi> Mat. 22.37, 38. <hi>Thou ſhalt love the Lord thy God, with all thy heart, and with all thy ſoul, and with all thy mind.</hi> 38. <hi>This is the firſt, and great Com<g ref="char:EOLhyphen"/>mandment.</hi>
+                     </item>
+                     <pb n="29" facs="tcp:105630:15"/>
+                     <item>2. <hi>Our Neighbour, as our ſelves. <hi>Mat.</hi>
+                        </hi> 22.39. <hi>And the ſecond is like unto it, Thou ſhalt love thy Neighbour, as thy ſelf.</hi> 40. <hi>On theſe two Commandments, hang all the Law, and the Prophets.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="43">43 Q. <hi>What is the Preface to the Ten Com<g ref="char:EOLhyphen"/>mandments?</hi>
+               </p>
+               <p>
+                  <hi>The Preface to the Ten Commandments, is, in theſe words. I am the Lord thy God, which have brought thee out of the Land of Egypt, out of the Houſe of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ndage, <hi>Exod.</hi>
+                  </hi> 20.2.</p>
+               <p n="44">44 Q <hi>What doth the Preface to the Ten Com<g ref="char:EOLhyphen"/>mandments trach us?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Preface to the Ten Commandments teacheth us, That, becauſe God is the Lord, and our God, and Red<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mer, therefore we are bound to kéep all his Commandments.</hi>
+               </p>
+               <list>
+                  <head>The Preface to the Ten Commandments teacheth us, that we are bound to keep all Gods Commandments:</head>
+                  <item>
+                     <p>1. Becauſe God is the <hi>Lord.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Deut. 11.11.</hi>
+                        </bibl> Thou ſhalt love the Lord; and keep his Commandments alway.</q>
+                  </item>
+                  <item>
+                     <p>2. Becauſe the Lord is <hi>our</hi> God.</p>
+                     <q>
+                        <bibl>
+                           <hi>Deut. 11.11.</hi>
+                        </bibl> Thou ſhalt love the Lord thy God, and keep his charge, and his ſtatutes, and his judgments, and his Commandments alway.</q>
+                  </item>
+                  <item>
+                     <p>3. Becauſe the Lord is our <hi>Redeemer.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Luke 1.74, 75.</hi>
+                        </bibl> That we, being delivered out of the hands of our enemies, might ſerve him without fear. <hi>75.</hi> In holineſs, and righteouſneſs, before him, all the days of our lives.</q>
+                  </item>
+               </list>
+               <p n="45">45 Q. <hi>What is the firſt Command<g ref="char:EOLhyphen"/>ment?</hi>
+                  <note place="margin">Twelfth Day.</note>
+               </p>
+               <p>The <hi>firſt</hi> Commandment is, <hi>Thou ſhalt
+<pb n="30" facs="tcp:105630:16"/>have no other Gods before me,</hi> Exod. 20.3.</p>
+               <p n="46">46 Q. <hi>What is required in the firſt Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The firſt Commandment requireth us to know, and acknowledg God, to be the only true God, and our God, and to worſhip and glorifie him accordingly.</hi>
+               </p>
+               <p>God requireth us,</p>
+               <list>
+                  <item>
+                     <p>1. To <hi>know</hi> him, to be the <hi>only True God.</hi>
+                     </p>
+                     <q>
+                        <bibl>1 <hi>Chron.</hi> 28.9.</bibl> And thou <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lomon,</hi> my Son, <hi>Know thou the God of thy Father.</hi>
+                     </q>
+                  </item>
+                  <item>
+                     <p>2. To <hi>acknowledg</hi> him to be <hi>our God.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Deut. 26.17.</hi>
+                        </bibl> Thou haſt avon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hed the Lord, this day, to be thy God, <hi>and to walk in his ways, and to keep his ſtatutes, and his Commandments, and to hearken to his voice.</hi>
+                     </q>
+                  </item>
+                  <item>
+                     <p>3. To <hi>worſhip, and glorifie</hi> him, <hi>as</hi> the <hi>only true God,</hi> and <hi>our God.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Mat. 4.10.</hi>
+                        </bibl> Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve.</q>
+                  </item>
+               </list>
+               <p n="47">47 Q. <hi>What is forbidden in the firſt Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The firſt Commandment forbiddeth the de<g ref="char:EOLhyphen"/>nying, or not worſhipping, and glorifying the true God, as God, and our God, and the giving that worſhip, and glory, to any other, which is due unto him alone.</hi>
+               </p>
+               <p>God forbiddeth,</p>
+               <list>
+                  <item>1. The <hi>denying</hi> of him to be the <hi>True</hi> God. <hi>Pſal.</hi> 14.1. <hi>The fool hath ſaid in his heart, there is no God.</hi>
+                  </item>
+                  <item>
+                     <p>2. The <hi>not-worſhipping and glorifying</hi> of him <hi>as</hi> God.</p>
+                     <q>
+                        <bibl>
+                           <hi>Rom. 1.20, 21.</hi>
+                        </bibl> 
+                        <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>y <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e without excuſe, becauſe
+<pb n="31" facs="tcp:105630:16"/>that, when they knew God, they glorified him not, as God.</q>
+                  </item>
+                  <item>
+                     <p>3. The <hi>not-worſhipping</hi> and glorifying of him, <hi>as our God.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Pſal.</hi> 81.11.</bibl> My people would not hearken unto my voice, and <hi>Iſrael would none of me.</hi>
+                     </q>
+                  </item>
+                  <item>
+                     <p>4. The <hi>giving</hi> that <hi>worſhip</hi> and glory, <hi>to any other,</hi> which is due to him <hi>alone.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Rom. 1.15.</hi>
+                        </bibl> Who changed the truth of God into a lye, and worſhipped, and ſerved the Creature, more than the Creator, who is bleſſed for ever.</q>
+                  </item>
+               </list>
+               <p n="48">48 Q. <hi>What are we eſpecially taught by theſe words</hi> (Before me) <hi>in the firſt Commandment?</hi>
+               </p>
+               <p>Theſe words, <hi>Before me,</hi> in the <hi>firſt</hi> Command<g ref="char:EOLhyphen"/>ment, teach us, that <hi>God,</hi> who <hi>ſeeth</hi> all things, <hi>taketh notice of,</hi> and <hi>is much diſpleaſed with,</hi> the ſin of <hi>having any other God.</hi>
+               </p>
+               <q>
+                  <bibl>
+                     <hi>Pſal. 44.20, 21.</hi>
+                  </bibl> If we have forgotten the name of our God, or ſtretched out our hands to a ſtrange God. <hi>21.</hi> Shall not God ſearch out this?</q>
+               <p n="49">49 Q. <hi>Which is the ſecond Command<g ref="char:EOLhyphen"/>ment?</hi>
+                  <note place="margin">Thir<g ref="char:EOLhyphen"/>teenth Day.</note>
+               </p>
+               <p>
+                  <hi>The ſecond Commandment, is, Thou ſhalt not make unto thée any graven Image, or any likeneſs of any thing, that is in heaven above, or that is in the earth beneath, or that is in the water under the earth, Thou ſhalt not bow down thy ſelf to them, nor ſerve them: for I the Lord, thy God, am a Iealous God, visiting the iniquities of the fathers upon the children, unto the third and fourth genera<g ref="char:EOLhyphen"/>tion of them that hate me, and ſhewing mercy to thouſands ofthem that love me, and keep my Com<g ref="char:EOLhyphen"/>mandments.</hi> Exod. 20.4, 5, 6.
+<pb n="32" facs="tcp:105630:17"/>50 Q. <hi>What is required in the ſecond Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ſecond Commandment requireth the re<g ref="char:EOLhyphen"/>ceiving, obſerving, and keeping pure and entire, all ſuch religious Worſhip and Ordinances, as God hath appointed in his Word.</hi>
+               </p>
+               <p>God requireth,</p>
+               <list>
+                  <item>
+                     <p>1. The <hi>receiving</hi> all ſuch <hi>Religious Worſhip</hi> and <hi>Or<g ref="char:EOLhyphen"/>dinances,</hi> as he hath appointed in his Word.</p>
+                     <q>
+                        <bibl>
+                           <hi>Deut. 32.46.</hi>
+                        </bibl> Set your hearts unto all the words, which I teſtifie among you this day, which ye ſhall com<g ref="char:EOLhyphen"/>mand your children to obſere<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, to do all the words of this Law.</q>
+                  </item>
+                  <item>
+                     <p>2. The obſerving all ſuch Religious Worſhip and Ordinances, as he hath appointed in his Word.</p>
+                     <q>
+                        <bibl>
+                           <hi>Mat. 28.20.</hi>
+                        </bibl> Teaching them to obſerve all things, whatſoever I have commanded you.</q>
+                  </item>
+                  <item>
+                     <p>3. The keeping pure and entire, all ſuch Religi<g ref="char:EOLhyphen"/>ous Worſhip and Ordinances, as he hath appointed in his Word.</p>
+                     <q>
+                        <bibl>
+                           <hi>Deut. 12.32.</hi>
+                        </bibl> Whatſoever I command you obſerve to do it, thou ſhalt not add thereto, nor diminiſh from it.</q>
+                  </item>
+               </list>
+               <p n="51">51 Q. <hi>What is forbidden in the ſecond Com<g ref="char:EOLhyphen"/>mandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ſecond Commandment forbiddeth the worſhipping of God by Images, or any other way not appointed in his Word.</hi>
+               </p>
+               <p>God forbiddeth the worſhipping of himſelf,</p>
+               <list>
+                  <item>
+                     <p>1. By Images.</p>
+                     <q>
+                        <bibl>
+                           <hi>Deut. 4.15, 16.</hi>
+                        </bibl> Take ye good h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ed unto your ſelves; for ye ſaw no manner of ſimilitude, in the day, that the Lord ſpake unto you in <hi>Horeb. 16.</hi> Leſt you cor<g ref="char:EOLhyphen"/>rupt
+<pb n="33" facs="tcp:105630:17"/>your ſelves, and make you a graven Image.</q>
+                  </item>
+                  <item>
+                     <p>2. By any way that is not appointed in his Word.</p>
+                     <q>
+                        <bibl>
+                           <hi>Col. 2.18.</hi>
+                        </bibl> Let no man beguile you of your reward, in a voluntary humility, and worſhipping of Angels, intru<g ref="char:EOLhyphen"/>ding into thoſe things, which he hath not ſeen, vainly puft up by his fleſhly mind.</q>
+                  </item>
+               </list>
+               <p n="52">52 Q. <hi>What are the Reaſons annexed to the ſe<g ref="char:EOLhyphen"/>cond Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Reaſons annexed to the ſecond Com<g ref="char:EOLhyphen"/>mandment, are Gods Soveraignty over us, his pro<g ref="char:EOLhyphen"/>priety in us, and the zeal he hath to his own wor<g ref="char:EOLhyphen"/>ſhip.</hi>
+               </p>
+               <list>
+                  <item>1. Gods <hi>Soveraignty</hi> over us, ſhould move us to keep the ſecond Commandment. Pſal. 95.2, 3. <hi>Let us come before his preſence with thanksgiving, and make a joyful noiſe unto him with Pſalms.</hi> v. 3. <hi>For the Lord is a great God, and a great King above all gods.</hi>
+                  </item>
+                  <item>
+                     <p>2. Gods <hi>propriety</hi> in us ſhould move us, to keep the ſecond Commandment.</p>
+                     <q>
+                        <bibl>
+                           <hi>Pſal. 45.11.</hi>
+                        </bibl> He is thy Lord, and worſhip thou him.</q>
+                  </item>
+                  <item>
+                     <p>3. The <hi>zeal</hi> which God hath to his own <hi>Wor<g ref="char:EOLhyphen"/>ſhip,</hi> ſhould move us to keep the ſecond Command<g ref="char:EOLhyphen"/>ment.</p>
+                     <q>
+                        <bibl>
+                           <hi>Exod. 34.14.</hi>
+                        </bibl> Thou ſhalt worſhip no other God; for the Lord, whoſe name is jealous, is a jealous God.</q>
+                  </item>
+               </list>
+               <p n="53">53. <hi>Which is the third Commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The third Commandment is,<note place="margin">Four<g ref="char:EOLhyphen"/>teenth Day.</note> 
+                  <hi>Thou ſhalt not take the name of the Lord thy God in vain; for the Lord will not hold him guilt<g ref="char:EOLhyphen"/>leſs, that taketh his name in vain.</hi> Exod. 20.7.</p>
+               <p n="54">54. <hi>What is required in the third Commandment?</hi>
+               </p>
+               <pb n="34" facs="tcp:105630:18"/>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The third Commandment requireth the holy and reverent uſe of Gods Names, Titles, Attributes, Ordinances, Word and works.</hi>
+               </p>
+               <p>God requireth the holy and reverent uſe of his,</p>
+               <list>
+                  <item>
+                     <p>1. Names,</p>
+                     <q>
+                        <bibl>
+                           <hi>Pſal. 29.2.</hi>
+                        </bibl> Give unto the Lord the glory due to his Name.</q>
+                  </item>
+                  <item>
+                     <p>2. Titles and Attributes,</p>
+                     <q>
+                        <bibl>
+                           <hi>Rev.</hi> 15.3, 4.</bibl> Great and marvellous are thy works, <hi>Lord God Almighty;</hi> juſt, and true are thy ways, <hi>Thou King of Saints.</hi> 4. <hi>Who ſhall not fear thee, O Lord, and glorifie thy Name?</hi>
+                     </q>
+                  </item>
+                  <item>
+                     <p>3. Ordinances,</p>
+                     <q>
+                        <bibl>
+                           <hi>Eccleſ. 5.1.</hi>
+                        </bibl> Keep thy foot, when thou goeſt to the houſe of God, and be more ready to hear, than to give the Sacrifice of fools.</q>
+                  </item>
+                  <item>
+                     <p>4. Word.</p>
+                     <q>
+                        <bibl>
+                           <hi>Pſal. 38.2.</hi>
+                        </bibl> I will praiſe thy Name <hi>for thy loving kindneſs, and</hi> for thy truth; for thou haſt magnified thy word, above all thy name.</q>
+                  </item>
+                  <item>
+                     <p>5. Works,</p>
+                     <q>
+                        <bibl>
+                           <hi>Job 36.24.</hi>
+                        </bibl> Remember, that thou magnifie his work which men behold.</q>
+                  </item>
+               </list>
+               <p n="55">55 Q. <hi>What is forbidden in the third Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> God forbiddeth all profaning or abuſing of any thing, whereby he makes himſelf known.</hi>
+               </p>
+               <q>
+                  <bibl>
+                     <hi>Mal. 2.2,</hi>
+                  </bibl> It ye will not lay it to heart; to give glory to my Name, ſaith the Lord of Hoſts, I will even ſend a curſe upon you.</q>
+               <p n="59">59 Q. <hi>What is the Reaſon annexed to the third Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The reaſon annexed to the third Command<g ref="char:EOLhyphen"/>ment
+<pb n="35" facs="tcp:105630:18"/>is, That however the breakers of this Com<g ref="char:EOLhyphen"/>mandment may eſcape puniſhment from men, pet the Lord our God will not ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffer them to eſcape his righ<g ref="char:EOLhyphen"/>teous judgment.</hi>
+               </p>
+               <q>
+                  <bibl>
+                     <hi>Deut. 28.58, 59.</hi>
+                  </bibl> If thou wiit not obſerve to do all the words of this Law, that th as mayeſt fear this glori<g ref="char:EOLhyphen"/>ous and fearful Name, the Lord thy God. <hi>59.</hi> Then the Lord will make thy plagues wonderful.</q>
+               <p>5u Q. <hi>Which is the fourth Command<g ref="char:EOLhyphen"/>ment?</hi>
+                  <note place="margin">Fifteenth Day.</note>
+               </p>
+               <p>
+                  <hi>The fourth Commandment is Remember the Sabbath day to keep it holy,</hi> 9. <hi>Sir days ſhalt thou labour, and do all thy worſt.</hi> 10. <hi>But the re<g ref="char:EOLhyphen"/>venth day is the Sabbath of the Lord thy God. In it, thou ſhalt not do any work, thou, nor thy fell, n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r thy daughter, thy man ſervant, nor thy maid-ſervant, nor thy cattle, nor thy ſtranger that is within thy gates.</hi> 11. <hi>For in ſir days, the Lord made heaven and earth, the ſea, and all that in them is, and reſted the ſeventh day, wherefore the Lord bleſled the Sab<g ref="char:EOLhyphen"/>bath day, and haflowed it, Erod.</hi> 20.8, 9, 10.</p>
+               <p n="58">58 Q. <hi>that We required in the fourth Com<g ref="char:EOLhyphen"/>mandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ſourth Commandment requireth the keeping holy to God ſuch ſet times. as he hath ap<g ref="char:EOLhyphen"/>pointed in his Word, erpreſty one whole day in ſe<g ref="char:EOLhyphen"/>ven, to be a holy Sabbath to himſelf.</hi>
+               </p>
+               <p>God requireth the keeping holy to himſelf,</p>
+               <list>
+                  <item>
+                     <p>1. Such <hi>ſet</hi> times as he hath appointed in his Word.</p>
+                     <q>
+                        <bibl>
+                           <hi>Lev. 19.30.</hi>
+                        </bibl> Ye ſhall keep my Sabbaths, and reve<g ref="char:EOLhyphen"/>rence my Saactuary. I am the Lord.</q>
+                  </item>
+                  <item>
+                     <p>2. Expreſly, one whole day in <hi>ſeven</hi> to be an
+<pb n="36" facs="tcp:105630:19"/>holy Sabbath to himſelf.</p>
+                     <q>
+                        <bibl>
+                           <hi>Deut. 5.12.</hi>
+                        </bibl> Keep the Sabbath day to ſanctifie it, as the Lord thy God hath commanded thee.</q>
+                  </item>
+               </list>
+               <p n="59">59 Q. <hi>Which day of the ſeven hath God appoint<g ref="char:EOLhyphen"/>ed to be the weekly Sabbath?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> From the veginning of the world to the Re<g ref="char:EOLhyphen"/>ſurrection of Chriſt, God appointed the ſeventh day of the wéek to be the weekly Sabbath, and the firſt day of the wéek, ever ſince, to continue to the end of the World, which is the Chriſtian Sab<g ref="char:EOLhyphen"/>bath.</hi>
+               </p>
+               <list>
+                  <item>1. From the <hi>beginning</hi> of the World to the <hi>Reſur<g ref="char:EOLhyphen"/>rection</hi> of Chriſt, God appointed the <hi>ſeventh</hi> day of the week to be the weekly <hi>Sabbath.</hi> Gen. 2.3. <hi>God bleſſed the ſeventh day, and ſanctified it, becauſe that in it he had reſted from all his work, which God created and made.</hi>
+                  </item>
+                  <item>2. Ever <hi>ſince</hi> the <hi>Reſurrection of Chriſt,</hi> God ap<g ref="char:EOLhyphen"/>pointed the <hi>firſt day</hi> of the week to be the <hi>weekly</hi> Sabbath, and to <hi>continue</hi> to the end of the world, as the <hi>Chriſtian</hi> Sabbath.</item>
+               </list>
+               <q>
+                  <bibl>
+                     <hi>Acts 20.7.</hi>
+                  </bibl> 
+                  <g ref="char:V">Ʋ</g>pon the firſt day of the week, when the Diſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iples came together, to break bread, <hi>Paul</hi> preached unto them.</q>
+               <q>
+                  <bibl>
+                     <hi>Rev.</hi> 1.10.</bibl> I was in the Spirit <hi>upon the Lords day.</hi>
+               </q>
+               <p n="60">60 Q. <hi>How is the Sabbath to be cauctiſted?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Sabbath is to be ſanctified by an holy reſting all that day, even from ſuch worldly employ<g ref="char:EOLhyphen"/>ments and recreations, as are lawful on other days, and ſpending the whole time in the publick and pri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate ererciſes of Gods worſhip, ercept ſo much, as <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s to be taken up in the works of neceſſity and mercy.</hi>
+               </p>
+               <pb n="37" facs="tcp:105630:19"/>
+               <p>The Sabbath is to be ſanctiſied,</p>
+               <list>
+                  <item>
+                     <p>1. By an holy <hi>reſting</hi> all that day, even from ſuch <hi>worldly employments</hi> and <hi>recreations,</hi> as are lawful on other days.</p>
+                     <q>
+                        <bibl>
+                           <hi>Lev. 23.3.</hi>
+                        </bibl> Six days ſhall work be done, but the ſe<g ref="char:EOLhyphen"/>venth day is the Sabbath of reſt, an holy convocation, ye ſhall do no work therein.</q>
+                  </item>
+                  <item>
+                     <p>2. By ſpending the <hi>whole</hi> time in the <hi>publick</hi> and <hi>prioate</hi> exerciſes of Gods <hi>Worſhip.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Pſal. 92.1, 2.</hi>
+                        </bibl> A Pſalm or Song for the Sabbath-day, <hi>v. 1.</hi> It is a good thing to give thanks unto the Lord, and to ſing praiſes unto thy Name, O moſt high. <hi>2.</hi> To ſhew forth thy loving kindneſs in the morning, and thy faithſulneſs every night.</q>
+                  </item>
+                  <item>
+                     <p>3. Works of <hi>neceſſity,</hi> and <hi>merey</hi> may, and ought to be performed on the <hi>Sabbath day.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Mat. 12.11, 12.</hi>
+                        </bibl> What man ſhall there be among you, that ſhall have one ſheep, and if it fall into a pit on the Sabbath day, will not he lay hold on it, and lift it out? <hi>12.</hi> How much then is a man better than a ſheep? where<g ref="char:EOLhyphen"/>fore it is lawful to do well on the Sabbath-day.</q>
+                  </item>
+               </list>
+               <p n="61">61 Q. <hi>What is forbidden in the fourth Commandment?</hi>
+                  <note place="margin">Sixteenth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The fourth Commandment forbid<g ref="char:EOLhyphen"/>deth the omiſſion, or careleſs performance of the Du<g ref="char:EOLhyphen"/>ties required, and the proſaning the day by toleneſs, or doing that which is in it ſelf ſinful, or by unneceſ<g ref="char:EOLhyphen"/>ſary thoughts, words, or works, about worldly em<g ref="char:EOLhyphen"/>ployments, or recreations.</hi>
+               </p>
+               <p>God forbiddeth,</p>
+               <list>
+                  <item>
+                     <p>1. The <hi>omiſſion,</hi> or <hi>careleſs performance</hi> of the <hi>du<g ref="char:EOLhyphen"/>ties</hi> required on the Sabbath-day.</p>
+                     <q>
+                        <bibl>
+                           <hi>Mal. 1.13.</hi>
+                        </bibl> Ye ſaid alſo, behold, what a wearineſs
+<pb n="38" facs="tcp:105630:20"/>it is, and ye have ſnuffed at it, ſaith the Lord of hoſts; and ye brought that which was torn, and the lame, and the ſick; thus you brought an offering, ſhould I ac<g ref="char:EOLhyphen"/>cept this at your hands, ſaith the Lord?</q>
+                  </item>
+                  <item>
+                     <p>2. <hi>The profaning the Sabbath day,</hi>
+                     </p>
+                     <p>By <hi>idleneſs,</hi> or <hi>doing that</hi> which is in it ſelf <hi>ſin<g ref="char:EOLhyphen"/>ful.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Ezck. 23.38. </hi>
+                        </bibl> They have deſiled my Sanctuary in the ſame day, and have prefaned my Sabbaths.</q>
+                  </item>
+                  <item>
+                     <p>3. <hi>The profaning the Sabbath day.</hi>
+                     </p>
+                     <p>By <hi>unneceſſary</hi> thoughts, words, or works, about <hi>worldly employments,</hi> or <hi>recreations.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>u. 58.13. </hi>
+                        </bibl> If thou turn away thy foot from the Sabbath, from doing thy pleaſure on my holy day, and call the Sabbath a delight, the holy of the Lord, ho<g ref="char:EOLhyphen"/>nour thle, and ſhalt honour him, not doing thine own ways, nor finding thine own pleaſure, nor ſpeaking thine own words.</q>
+                  </item>
+               </list>
+               <p n="62">62 Q. <hi>What are the Reaſons annexed to the fourth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Reaſons annexed to the fourth Com<g ref="char:EOLhyphen"/>mandment are Gods allowing us fir days of the Work for our employments, his challenging a ſpecial pr<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>lew in the ſeventh, his own erample, and his vieſſing the Sabbath-day.</hi>
+               </p>
+               <p>Gods,</p>
+               <list>
+                  <item>
+                     <p>1. Allowing us <hi>ſix days</hi> of the week <hi>for our own émployments,</hi> ſhould move us to keep the fourth Commandment.</p>
+                     <q>
+                        <bibl>
+                           <hi>Exod. 31.15 16. </hi>
+                        </bibl> Six days may work be done, but in the ſeventh is the Sabbath of reſt.</q>
+                  </item>
+                  <item>
+                     <p>2. Challenging ſpecial <hi>propriety</hi> in the <hi>ſeventh</hi>
+                        <pb n="39" facs="tcp:105630:20"/>day, ſhould move us to keep the ſourth Command<g ref="char:EOLhyphen"/>ment.</p>
+                     <q>
+                        <bibl>
+                           <hi>Lev. 23.3. </hi>
+                        </bibl> Ye ſhall do no work therein, it is the Sabbath of the Lord your God, in all your dwellings.</q>
+                  </item>
+                  <item>
+                     <p>3. Own <hi>example</hi> ſhould move us to keep the fourth Commandment.</p>
+                     <q>
+                        <bibl>
+                           <hi>Exod. 31.17. </hi>
+                        </bibl> It is a ſign between me and the children of Iſrael for ever; for in ſix days the Lord made heaven and earth, on the ſeventh day he reſted, and was refreſhed.</q>
+                  </item>
+                  <item>
+                     <p>4. <hi>Bleſſing the Sabbath</hi> day, ſhould move us to keep the fourth Commandment.</p>
+                     <q>
+                        <bibl>
+                           <hi>Gen. 2.3. </hi>
+                        </bibl> God bleſſed the Sabbath day, and ſancti<g ref="char:EOLhyphen"/>fied it.</q>
+                  </item>
+               </list>
+               <p n="63">63 Q. <hi>Which is the fifth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>fifth</hi> Commandment is, <hi>Honour thy father and thy mother, that thy days may be long in the land, which the Lord thy God giveth thee,</hi> Exod. 20.12.</p>
+               <p n="64">64 Q. <hi>What is required in the fifth Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>God requireth the preſerving the honour, and perform<g ref="char:EOLhyphen"/>ing the duties belonging to every one, in their ſeveral places and relations.</hi>
+               </p>
+               <list>
+                  <item>
+                     <p>1. As Superiors,</p>
+                     <q>
+                        <bibl>
+                           <hi>Eph 5.21, 22. <hi>Submitting your ſelves one to ano<g ref="char:EOLhyphen"/>ther in the fear of God.</hi> 22. </hi>
+                        </bibl> Wives, ſubmit your ſelves unto your own Husbands, as unto the Lord.</q>
+                     <q>
+                        <bibl>
+                           <hi>Eph. 6.1, 5. <hi>Children, obey your Parents in the Lord.</hi> 5. </hi>
+                        </bibl> Servants, be obedient to them, that are your Maſters according to the fleſh.</q>
+                     <q>
+                        <bibl>
+                           <hi>Rom 13.1. </hi>
+                        </bibl> Let every ſoul be ſubject to the higher powers.</q>
+                  </item>
+                  <pb n="40" facs="tcp:105630:21"/>
+                  <item>
+                     <p>2. As Inferiors.</p>
+                     <q>
+                        <bibl>
+                           <hi>Eph. 6.9. </hi>
+                        </bibl> Ye Maſters, do the ſame things unto them, knowing, that your Maſter alſo is in Heaven.</q>
+                  </item>
+                  <item>
+                     <p>3. As Equals.</p>
+                     <q>
+                        <bibl>
+                           <hi>Rom. 12.10. </hi>
+                        </bibl> Be kindly affectioned one to another, with brotherly love, in honour preferring one another.</q>
+                  </item>
+               </list>
+               <p n="65">65 Q. <hi>What is forbidden in the fifth Commandment?</hi>
+                  <note place="margin">Seven<g ref="char:EOLhyphen"/>tgenth Day.</note>
+               </p>
+               <p>God forbiddeth the <hi>neglecting</hi> of, or do<g ref="char:EOLhyphen"/>ing any thing <hi>againſt</hi> the <hi>honour</hi> and <hi>duty,</hi> which belongeth to <hi>every one,</hi> in their ſeveral <hi>places</hi> and <hi>relations.</hi>
+               </p>
+               <q>
+                  <bibl>
+                     <hi>Rom. 13.7, 8.</hi>
+                  </bibl> Render to all their dues; tribute, to whom tribute is due; cuſtom, to whom cuſtom; fear, to whom fear; honour, to whom honour. <hi>8.</hi> Owe no man any thing, but to love one another.</q>
+               <p n="66">66 Q. <hi>What is the reaſon annexed to the fifth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>reaſon</hi> annexed to the <hi>fifth</hi> Commandment, is a promiſe of <hi>long life</hi> and <hi>proſperity,</hi> as far as it ſhall ſerve for <hi>Gods glory</hi> and their <hi>own good,</hi> to all ſuch as keep this Commandment.</p>
+               <q>
+                  <bibl>
+                     <hi>Eph. 6.2, 3.</hi>
+                  </bibl> Honour thy father, and thy mother, which is the firſt Commandment with promiſe. <hi>3.</hi> That it may be well with thee, and that thou mayeſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive long on the earth.</q>
+               <p n="67">67 Q. <hi>Which is the ſixth Commandment?</hi>
+               </p>
+               <p>The <hi>ſixth</hi> Commandment is, <hi>Thou ſhalt not kill,</hi> Exod. 20.13.</p>
+               <p n="86">86 Q. <hi>What is required in the ſixth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A</hi> The ſixth Commandment requireth all lawful endeavours, to preſerve our own life, and the life of others.</hi>
+               </p>
+               <pb n="41" facs="tcp:105630:21"/>
+               <p>God requireth all lawful endeavours, to preſerve,</p>
+               <list>
+                  <item>
+                     <p>1. <hi>Our own life.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Eph. 5.28, 29.</hi>
+                        </bibl> 
+                        <hi>So ought men</hi> to love <hi>their wives, even as</hi> their own bodies. <hi>29.</hi> For no man ever yet ha<g ref="char:EOLhyphen"/>ted his own fleſh, but nouriſheth and cheriſheth it.</q>
+                  </item>
+                  <item>
+                     <p>2. The life of <hi>others.</hi> Pſal. 82.3, 4. <hi>Defend the poor and fatherleſs.</hi> 4. <hi>Deliver the poor and needy.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Job. 29.13. </hi>
+                        </bibl> The bleſſing of him that was ready to periſh came upon me.</q>
+                  </item>
+               </list>
+               <p>
+                  <hi>A.</hi> 69 Q.<note place="margin">Eigh<g ref="char:EOLhyphen"/>teenth Day.</note> 
+                  <hi>What is forbidden in the ſixth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ſixth Commandment forbiddeth the taking way of our own life, or the life of our Neighbour unjuſtly, and whatſoever tendeth thereunto.</hi>
+               </p>
+               <p>God forbiddeth the taking away of,</p>
+               <list>
+                  <item>
+                     <p>1. Our own life. Acts 16.28. <hi>Paul</hi> cried with a loud voice, ſaying, <hi>Do thy ſelf no harm.</hi>
+                     </p>
+                  </item>
+                  <item>
+                     <p>2. The life of our neighbour unjuſtly,</p>
+                     <q>
+                        <bibl>
+                           <hi>Gen. 9.6. </hi>
+                        </bibl> Whoſo ſheddeth mans blood, by man ſhall his blood be ſhed.</q>
+                  </item>
+                  <item>
+                     <p>3. God forbiddeth whatſoever tendeth to the taking away of our own life, or the life of our neigh<g ref="char:EOLhyphen"/>bour unjuſtly. Prov. 24.11, 12. <hi>If thou forbear to deli<g ref="char:EOLhyphen"/>ver them, that are drawn unto death, and thoſe that are ready to be ſlain.</hi> 12. <hi>If thou ſayeſt, behold, we knew it not, doth not he that pondereth the heart, conſider it?</hi>
+                     </p>
+                  </item>
+               </list>
+               <p n="70">70 Q. <hi>What is the ſeventh Commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>ſeventh</hi> Commandment is, <hi>Thou ſhalt not commit Adultery,</hi> Exod. 20.14.</p>
+               <p n="71">71 Q. <hi>What is required in the ſeventh Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>A. <hi>The ſeventh Commandment requireth the pre<g ref="char:EOLhyphen"/>ſervation
+<pb n="42" facs="tcp:105630:22"/>of our own, and our neighbours chaſtity, in heart, ſpéech, and behaviour.</hi>
+               </p>
+               <p>God requireth the preſervation of,</p>
+               <list>
+                  <item>
+                     <p>1. Our own <hi>Chaſtity.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>1 Theſ. 4.4. </hi>
+                        </bibl> Every one of you ſhall know how to poſ<g ref="char:EOLhyphen"/>ſeſs his veſſel, in ſanctification and honour.</q>
+                  </item>
+                  <item>
+                     <p>2. Our <hi>Neighbours</hi> chaſtity.</p>
+                     <q>
+                        <bibl>
+                           <hi>Epheſ. 5.11, 12. </hi>
+                        </bibl> Have no fellowſhip with the un<g ref="char:EOLhyphen"/>fruitful works of darkneſs, but reprove them rather. <hi>12.</hi> For it is a ſhame, even to ſpeak of thoſe things which are done of them in ſecret.</q>
+                  </item>
+                  <item>
+                     <p>3. <hi>Our own and our Neighbours chaſtity</hi> in heart.</p>
+                     <q>
+                        <bibl>
+                           <hi>2 Tim. 2.22. </hi>
+                        </bibl> Flee youthful lu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s, <hi>but follow Righ<g ref="char:EOLhyphen"/>teouſneſs, Faith, Charity.</hi>
+                     </q>
+                  </item>
+                  <item>
+                     <p>4. <hi>Our own, and our Neighbours chaſtity</hi> in ſpeech.</p>
+                     <q>
+                        <bibl>
+                           <hi>Col. 4.6. </hi>
+                        </bibl> Let your ſpeech be alway with grace ſea<g ref="char:EOLhyphen"/>ſoned with ſalt.</q>
+                  </item>
+                  <item>
+                     <p>5. <hi>Our own and our Neighbours chaſtity</hi> in beha<g ref="char:EOLhyphen"/>viour.</p>
+                     <q>
+                        <bibl>
+                           <hi>1 Pet. 3.2. </hi>
+                        </bibl> While they behold your chaſt converſa<g ref="char:EOLhyphen"/>tion coupled with fear.</q>
+                  </item>
+               </list>
+               <p n="72">72 Q.<note place="margin">Nine<g ref="char:EOLhyphen"/>teenth Day.</note> 
+                  <hi>what is forbidden in the ſeventh Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ſeventh Commandment forbiddeth all unchaſt thoughts, words, and actions.</hi>
+               </p>
+               <p>God forbiddeth all unchaſt,</p>
+               <list>
+                  <item>
+                     <p>1. Thoughts.</p>
+                     <q>
+                        <bibl>
+                           <hi>Mat. 5.28. </hi>
+                        </bibl> Whoſoever looketh on a woman, to luſt after her, hath committed Adultery with her already in his heart.</q>
+                  </item>
+                  <item>
+                     <p>2. Works.</p>
+                     <q>
+                        <bibl>
+                           <hi>Epheſ. 5.4. </hi>
+                        </bibl> Neither filthineſs, nor fooliſh talking,
+<pb n="43" facs="tcp:105630:22"/>nor jeſting, which are not convenient.</q>
+                  </item>
+                  <item>
+                     <p>3. Actions.</p>
+                     <q>
+                        <bibl>
+                           <hi>Eph. 5.3. </hi>
+                        </bibl> Fornication, and all uncleanneſs, let it not be once named among you.</q>
+                  </item>
+               </list>
+               <p n="73">73 Q. <hi>What is the eighth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>eighth</hi> Commandment is, <hi>Thou ſhalt not ſteal,</hi> Exod. 20.15.</p>
+               <p n="74">74 Q. <hi>What is required in the eighth Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The eighth Commandment requireth the law<g ref="char:EOLhyphen"/>ful procuring, and furthering the wealth, and out<g ref="char:EOLhyphen"/>ward eſtate, of our ſelves, and others.</hi>
+               </p>
+               <p>God requireth the lawful,</p>
+               <list>
+                  <item>
+                     <p>1. Procuring the wealth, and outward eſtate of our ſelves.</p>
+                     <q>
+                        <bibl>
+                           <hi>Rom. 12.17. </hi>
+                        </bibl> Provide things honeſt in the ſight of all men.</q>
+                  </item>
+                  <item>
+                     <p>2. Furthering the wealth, and outward eſtate of our ſelves.</p>
+                     <q>
+                        <bibl>
+                           <hi>Prov. 27.23. </hi>
+                        </bibl> Be thou diligent, to know the ſtate of thy flocks, and look well to thy herds.</q>
+                  </item>
+                  <item>
+                     <p>3 <hi>Procuring</hi> the wealth, and outward eſtate of others.</p>
+                     <q>
+                        <bibl>
+                           <hi>Lev. 25.35. </hi>
+                        </bibl> If thy brother be waxen poor, and fallen in decay with thee, then thou ſhalt relieve him.</q>
+                  </item>
+                  <item>
+                     <p>4. <hi>Furthering</hi> the wealth, and outward eſtate of others.</p>
+                     <q>
+                        <bibl>
+                           <hi>Pail. 3.4. </hi>
+                        </bibl> Look not every man on his own things, but every man alſo on the things of others.</q>
+                  </item>
+               </list>
+               <p n="75">75 Q.<note place="margin">Twenti<g ref="char:EOLhyphen"/>eth Day.</note> 
+                  <hi>What is forbidden in the eighth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The eighth Commandment forbid<g ref="char:EOLhyphen"/>deth, whatſoever doth, or may unjuſtly binder our
+<pb n="44" facs="tcp:105630:23"/>own, or our neighbours wealth, and outward eſtate.</hi>
+               </p>
+               <p>God forbiddeth whatſoever,</p>
+               <list>
+                  <item>
+                     <p>1. <hi>Doth</hi> unjuſtly hinder <hi>our own wealth,</hi> and out<g ref="char:EOLhyphen"/>ward eſtate.</p>
+                     <q>
+                        <bibl>
+                           <hi>1 Tim. 5.8. </hi>
+                        </bibl> If any provide not for his own, and eſ<g ref="char:EOLhyphen"/>pecially for thoſe of his own houſe, he hath denied the faith, and is worſe than an Infidel.</q>
+                  </item>
+                  <item>
+                     <p>2. <hi>May</hi> unjuſtly hinder <hi>our own wealth,</hi> and out<g ref="char:EOLhyphen"/>ward eſtate.</p>
+                     <q>
+                        <bibl>
+                           <hi>Prov. 28, 19. </hi>
+                        </bibl> He, that followeth after vain perſons, ſhall have poverty enough.</q>
+                  </item>
+                  <item>
+                     <p>3. <hi>Doth</hi> unjuſtly hinder <hi>our neighbours wealth,</hi> and outward eſtate.</p>
+                     <q>
+                        <bibl>
+                           <hi>Prov, 21.6. </hi>
+                        </bibl> The getting of treaſures by a lying tongue is a vanity toſſed to and fro of, them that ſeek death.</q>
+                  </item>
+                  <item>
+                     <p>4. <hi>May</hi> unjuſtly hinder <hi>our neighbours wealth,</hi> and outward eſtate.</p>
+                     <q>
+                        <bibl>
+                           <hi>Job 20.19, 20. </hi>
+                        </bibl> Becauſe he hath oppreſſed, and hath forſaken the poor, becauſe he hath violently taken away an houſe, which he builded not. <hi>20.</hi> Surely, he ſhall not feel quietneſs in his belly.</q>
+                  </item>
+               </list>
+               <p n="76">76 Q. <hi>Which is the ninth Commandment?</hi>
+               </p>
+               <p>The <hi>ninth</hi> Commandment is, <hi>Thou ſhalt not bear falſe witneſs againſt thy neighbour,</hi> Exod. 20.16.</p>
+               <p n="77">77 Q. <hi>What is required in the Ninth Com<g ref="char:EOLhyphen"/>mandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ninth Commandment requireth the main<g ref="char:EOLhyphen"/>taining, and promoting of truth, betwéen man and man, and of our own, and our neighbours good name, eſpecially in witneſs bearing.</hi>
+               </p>
+               <p>God requireth the maintaining, and promoting,</p>
+               <list>
+                  <item>
+                     <p>1. Of <hi>Truth,</hi> between man, and man.</p>
+                     <q>
+                        <bibl>
+                           <hi>Zec. 8.6. </hi>
+                        </bibl> Speak ye every man the truth to his neighbour.</q>
+                  </item>
+                  <pb n="45" facs="tcp:105630:23"/>
+                  <item>
+                     <p>2. Of our own good Name.</p>
+                     <q>
+                        <bibl>
+                           <hi>1 Pet. 3.16. Act. 25.16. </hi>
+                        </bibl> Having a good conſcience, that, whereas they ſpeak evil of you, as of evil-doers, they may be aſhamed, that falſly accuſe your good con<g ref="char:EOLhyphen"/>verſation in Chriſt.</q>
+                     <q>
+                        <bibl>
+                           <hi>Acts 25.16. </hi>
+                        </bibl> Paul ſaid, I ſtand at <hi>Caeſars</hi> judgment ſeat, to the Jews have I done no wrong.</q>
+                  </item>
+                  <item>
+                     <p>3. Of our <hi>neighbours</hi> good name.</p>
+                     <q>
+                        <bibl>
+                           <hi>3 Joh. 12. </hi>
+                        </bibl> Demetrius hath a good report of all men, and of the truth it ſelf, yea, and we alſo bear record.</q>
+                  </item>
+                  <item>
+                     <p>4. Of truth, eſpecially in <hi>Witneſs-bearing.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Prov. 14.5.25. </hi>
+                        </bibl> A faithful witneſs will not lye. <hi>25.</hi> A true witneſs delivereth ſouls.</q>
+                  </item>
+               </list>
+               <p n="78">78 Q.<note place="margin">Twenty-ffrſt Day.</note> 
+                  <hi>What is forbidden in the ninth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The ninth Commandment forbiddeth what<g ref="char:EOLhyphen"/>ſoever is prejudicial to truth, or injurious to our own, or our neighbours good name.</hi>
+               </p>
+               <p>God forbiddeth whatſoever is,</p>
+               <list>
+                  <item>
+                     <p>1. Prejudicial to Truth.</p>
+                     <q>
+                        <bibl>
+                           <hi>Rom. 3.13. </hi>
+                        </bibl> With their tongues they have uſed deceit.</q>
+                  </item>
+                  <item>
+                     <p>2. Injurious to our own good name.</p>
+                     <q>
+                        <bibl>
+                           <hi>Job 27.5. </hi>
+                        </bibl> God forbid that I ſhould juſtifie you, till I die, I will not remove my integrity from me.</q>
+                  </item>
+                  <item>
+                     <p>3. Injurious to our <hi>neighbours</hi> good name.</p>
+                     <q>
+                        <bibl>
+                           <hi>Pſal. 15.3. </hi>
+                        </bibl> He that backbiteth not with his tongue, nor doth evil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> his neighbour, nor taketh up a reproach againſt his neighbour.</q>
+                  </item>
+               </list>
+               <p n="79">79 Q. <hi>Which is the tenth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>tenth</hi> Commandment is, <hi>Thou ſhalt not covet thy neighbours houſe, thou ſhalt not covet thy neighbours <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, nor his man ſervant, nor his maid-ſervant, nor his
+<pb n="46" facs="tcp:105630:24"/>ox, nor his aſs, nor any thing that is thy neighbours.</hi>
+               </p>
+               <p n="80">80 Q. <hi>What is required in the tenth Command<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The tenth Commandment reoutreth full cen<g ref="char:EOLhyphen"/>tentment with our own condition, with a right and charitable frame of ſpirit towards our neighbour, and all that is his.</hi>
+               </p>
+               <p>God requireth,</p>
+               <list>
+                  <item>
+                     <p>1. Full <hi>contentment</hi> with our own condition.</p>
+                     <q>
+                        <bibl>
+                           <hi>Heb. 13.5. </hi>
+                        </bibl> Let your converſation be without cove<g ref="char:EOLhyphen"/>touſneſs, and be content with ſuch things as ye have.</q>
+                  </item>
+                  <item>
+                     <p>9. A right and <hi>charitable frame of ſpirit,</hi> towards our <hi>neighbour,</hi> and all that is his.</p>
+                     <q>
+                        <bibl>
+                           <hi>Rom. 12.15. 1 Co. 13.4, 5, 6. </hi>
+                        </bibl> Rejoyce with them, that do rejoyce, and weep with them, that weep.</q>
+                     <q>
+                        <bibl>
+                           <hi>1 Cor. 13.4, 5, 6.</hi>
+                        </bibl> Charity ſuffereth long, and is kind; charity envieth not; charity vaunteth not it ſelf, is not puffed up. <hi>5.</hi> Doth not behave it ſelf unſeemly, ſeeketh not her own is not eaſily provoked thinketh no evil. <hi>6.</hi> Re<g ref="char:EOLhyphen"/>joyceth not in iniquity but rejoyceth in the truth.</q>
+                  </item>
+               </list>
+               <p n="81">81 Q.<note place="margin">Twenty-ſecond Day.</note> 
+                  <hi>What is forbidden in the tenth Commandment?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The tenth Commandment forbid<g ref="char:EOLhyphen"/>deth all diſcontentment, with our own eſtate, en<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ing, or grieving at the good of our neighbour, and all inordinate motions, and affections to any thing, that is his.</hi>
+               </p>
+               <p>God forbiddeth,</p>
+               <list>
+                  <item>
+                     <p>1. All diſcontentment with our own eſtate.</p>
+                     <q>
+                        <bibl>
+                           <hi>1 Cor. 10.10. </hi>
+                        </bibl> Neither murmur ye, as ſome of them alſo murmured, and were deſtroyed of the deſtroyer.</q>
+                  </item>
+                  <item>
+                     <p>2. Envying, or grieving at the good of our neighbour.</p>
+                     <pb n="47" facs="tcp:105630:24"/>
+                     <q>
+                        <bibl>
+                           <hi>Gal. 5.26. </hi>
+                        </bibl> Let us not be deſirous of vain-glory, pro<g ref="char:EOLhyphen"/>voking one another, envying one another.</q>
+                  </item>
+                  <item>
+                     <p>3. All inordinate motions, and affections, to any thing, that is our neigbours.</p>
+                     <q>
+                        <bibl>
+                           <hi>Col. 3.5. </hi>
+                        </bibl> Mortiſie your members, which are upon the earth, ſornication, uncleanneſs, inordinate affection, evil concupiſcence and covetouſneſs, which is idolatry.</q>
+                  </item>
+               </list>
+               <p n="82">82 Q. <hi>Is any man able perfectly to keep the Com<g ref="char:EOLhyphen"/>mands of God?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> No méer man, ſince the fall, is able, in this life, perfectly to kéep the Commandments of God, but daily doth break them, in thought, word, and déed.</hi>
+               </p>
+               <list>
+                  <item>
+                     <p>1. No meer man ſince the fall is able, in this life, perfectly to keep the Commandments of God.</p>
+                     <q>
+                        <bibl>
+                           <hi>Eccleſ. 7.20. </hi>
+                        </bibl> There is not a juſt man upon earth, that doth good, and ſinneth not.</q>
+                  </item>
+                  <item>
+                     <p>2. <hi>Every meer man, ſince the fall, doth in this life break the Commandments of God, in</hi>
+                     </p>
+                     <p>
+                        <hi>Thought.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Gen. 8.21. </hi>
+                        </bibl> The imagination of mans heart is evil from his youth.</q>
+                  </item>
+                  <item>
+                     <p>4. <hi>Every meer man ſince the fall doth daily break the Commandments of God in word.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Jam. 3.8. </hi>
+                        </bibl> The tongue can no man tame, it is an un<g ref="char:EOLhyphen"/>ruly evil, full of deadly payſon.</q>
+                  </item>
+                  <item>
+                     <p>4. <hi>Every meer man ſince the fall, doth break the Com<g ref="char:EOLhyphen"/>mandments of God in deed.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Jam. 3.2. </hi>
+                        </bibl> In many things we offend all.</q>
+                  </item>
+               </list>
+               <p n="83">83 Q. <hi>Are all the tranſgreſſions of the Law e<g ref="char:EOLhyphen"/>qually hainous?</hi>
+               </p>
+               <p>Some ſins, in <hi>themſelves,</hi> and by reaſon of ſeveral <hi>aggravations,</hi> are <hi>more hainous</hi> in the fight of God, than others.</p>
+               <pb n="48" facs="tcp:105630:25"/>
+               <p>Joh. 19.11. <hi>He that delivered me unto thee, hath the greater ſin.</hi>
+               </p>
+               <p n="84">84 Q. <hi>What doth every ſin deſerve?</hi>
+                  <note place="margin">Twenty-third Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Every ſin deſerveth Gods wrath, and curſe, both in this life, and that which is to come.</hi>
+               </p>
+               <p>Every ſin deſerves Gods <hi>wrath</hi> and <hi>curſe,</hi> in,</p>
+               <list>
+                  <item>
+                     <p>1. This life.</p>
+                     <q>
+                        <bibl>
+                           <hi>Gal. 3.10. </hi>
+                        </bibl> Curſed is every one, that continueth not in all things, which are written in the book of the Law to do them.</q>
+                  </item>
+                  <item>
+                     <p>2. That life, which is to come.</p>
+                     <q>
+                        <bibl>
+                           <hi>Mat. 25.41. </hi>
+                        </bibl> Then ſhall he ſay unto them, on the left hand, depart from me, ye curſed, into everlaſting fire, prepared for the Devil, and his Angels.</q>
+                  </item>
+               </list>
+               <p n="85">85 Q. <hi>What doth God requrre of us, that we may eſcape the wrath and curſe due unto us for ſin?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> To eſcape the wrath and curſe of God due to us for ſin, God requireth of us, Faith in Ieſus Chriſt, repentance unto life, with the diligent uſe of all outward means, whereby Chriſt communica<g ref="char:EOLhyphen"/>trth to us the benefits of Repentance.</hi>
+               </p>
+               <p>To eſcape the wrath and curſe of God, due to us for ſin, God requireth of us,</p>
+               <list>
+                  <item>
+                     <p>1. Faith in Jeſus Chriſt.</p>
+                     <q>
+                        <bibl>
+                           <hi>Joh. 3.16. </hi>
+                        </bibl> God ſo loved the world, that he gave his only begotten ſon, that whoſoever believeth in him, ſhould not periſh, but have everlaſting life.</q>
+                  </item>
+                  <item>
+                     <p>2. Repentance unto life. <hi>Act.</hi> 20.21. <hi>Teſtifying both to the Jews, and alſo to the Gree<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Repentance towards God, and faith towards our <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Jeſus Chriſt.</hi>
+                     </p>
+                  </item>
+                  <item>
+                     <p>3. The <hi>diligent</hi> uſe of all outward <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</hi> where<g ref="char:EOLhyphen"/>by Chriſt communicateth to us the benefits of Re<g ref="char:EOLhyphen"/>demption.
+<pb n="49" facs="tcp:105630:25"/>Prov. 2.1, to 6. <hi>My Son, if thou wilt receive my words, and hide my Commandments with thee.</hi> 2. <hi>So that thou incline thine ear unto wiſdom, and apply thine heart unto underſtanding.</hi> 3. <hi>Yea, if thou crieſt after knowledg, and lifteſt up thy voice for underſtanding.</hi> 4. <hi>If thou ſeekeſt for her as ſilver, and ſearcheſt for her, as for hid treaſure.</hi> 5. <hi>Then ſhalt thou underſtand the fear of the Lord, and find the knowledg of God.</hi>
+                     </p>
+                  </item>
+               </list>
+               <p n="86">86 Q. <hi>What is Faith in Ieſus Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Faith in Ieſus Chriſt is a ſaving grace, where<g ref="char:EOLhyphen"/>by we receive, and reſt upon him alone for Salva<g ref="char:EOLhyphen"/>tion, as he is offered to us in the Goſpel?</hi>
+               </p>
+               <list>
+                  <item>1. Faith in Jeſus Chriſt is a <hi>ſaving grace.</hi> Heb. 10.39 <hi>We are</hi> not of them, who draw back unto per<g ref="char:EOLhyphen"/>dition, but <hi>of them, that believe to the ſaving of the ſoul.</hi>
+                  </item>
+                  <item>2. By Faith we <hi>receive</hi> Jeſus Chriſt. <hi>Joh.</hi> 1.12. <hi>As many, as received him,</hi> to them gave he power to become the Sons of God, <hi>even to them, that be<g ref="char:EOLhyphen"/>lieve on his Name.</hi>
+                  </item>
+                  <item>3. By Faith, we <hi>reſt</hi> upon Jeſus Chriſt alone for Salvation. <hi>Phil.</hi> 3.9. <hi>And be found in him, not ha<g ref="char:EOLhyphen"/>ving mine own Righteouſneſs, which is of the Law, but that, which is through the faith of Chriſt, the Righ<g ref="char:EOLhyphen"/>teouſneſs, which is of God by Faith.</hi>
+                  </item>
+                  <item>4. By Faith we receive, and reſt upon Jeſus Chriſt, <hi>as he is offered</hi> to us in the Goſpel. <hi>Iſa.</hi> 33.22. <hi>The Lord is our Judg, the Lord is our Law-giver, the Lord is our King, he will ſave us.</hi>
+                  </item>
+               </list>
+               <p n="87">87 Q <hi>What is repentance unto life?</hi>
+                  <note place="margin">Twenty-fourth Day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Repentance unto life is a ſaving grace, whereby a ſinner, out of the true ſenſe of his ſin, and apprehenſion of the
+<pb n="50" facs="tcp:105630:26"/>mercy of God in Chriſt doth, with grief, and hatred of his ſin, turn from it unto God, with full purpoſe of, and endeavour after new obedience.</hi>
+               </p>
+               <p>Repentance unto life,
+<list>
+                     <item>1. Is a ſaving grace. <hi>Acts</hi> 11.18. <hi>Then hath God alſo to the Gentiles granted Repentance unto life.</hi>
+                     </item>
+                     <item>2. Ariſeth out of the true <hi>ſenſe</hi> of Sin. <hi>Acts</hi> 2.37. <hi>When they heard this, they were pricked in their hearts, and ſaid unto Peter, and the reſt of the Apoſtles, Men, and Brethren, what ſhall we do?</hi>
+                     </item>
+                     <item>3. Ariſeth out of the true apprehenſion of the <hi>mercy</hi> of God in Chriſt. Joel. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.13. <hi>Rent your hearts, and not your garments, and turn unto the Lord your God; for he is gracious and merciful, ſlow to anger, and of great kindneſs, and repenteth him of the evil.</hi>
+                     </item>
+                     <item>3. By Repentance unto life, a ſinner doth with <hi>grief,</hi> and <hi>hatred</hi> of his ſin, <hi>turn</hi> from it unto <hi>God.</hi> Jer. 31.18, 19. <hi>Turn thou me, and I ſhall be turned, for thou art the Lord my God.</hi> 19. <hi>Surely after I was turned, I repented, and after that I was inſtructed, I ſmote upon my thigh, I was aſhamed, yea even confound<g ref="char:EOLhyphen"/>ed, becauſe I did bear the reproach of my youth.</hi>
+                     </item>
+                     <item>4. Repentance unto life is <hi>accompanied</hi> with full <hi>purpoſe</hi> of, and <hi>endeavour</hi> after <hi>new obedience. Pſal.</hi> 119.59. <hi>I thought on my ways, and turned my feet into thy Teſtimonies.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="88">88 Q. <hi>What are the outward means, whereby Chriſt communicateth to us the benefits of Redemp<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The outward and ordinary means, whereby Chriſt communicates to us the benefits of Redemp<g ref="char:EOLhyphen"/>tion, are his Ordinances, eſpecially the Word, Sa<g ref="char:EOLhyphen"/>craments,
+<pb n="51" facs="tcp:105630:26"/>and Prayer, all which are made effectual to the Elect for Salvation. <hi>Acts</hi>
+                  </hi> 2.41, 42. <hi>Then they that gladly receive<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his word were baptized.</hi> 42. <hi>And th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y continued dedfaſtly in the Apoſtles Doctrine, and fellowſhip and in breaking of bread, and in prayers.</hi>
+               </p>
+               <p n="89">89 Q. <hi>How is the Word made effectual to Sal<g ref="char:EOLhyphen"/>vation?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Spirit of God maketh the reading, but eſpecially the preaching of the Word, an effectual means of convincing, and converting ſinners, and of building them up in holineſs, and comfort, through Faith, unto Salvation.</hi>
+               </p>
+               <p>
+                  <hi>The ſpirit of God maketh the reading, but eſpecially the preaching of the Word, an effectual means of,</hi>
+                  <list>
+                     <item>1. <hi>Convincing</hi> and <hi>converting</hi> ſinners. <hi>Pſal.</hi> 19.7. <hi>The Law of the Lord is perfect, converting the ſoul; the teſtimony of the Lord is ſure, making wiſe the ſimple.</hi>
+                     </item>
+                     <item>2. Building up Saints in holineſs, and comfort. 1 <hi>Theſ.</hi> 1.6. <hi>Ye became followers of us, and of the Lord, having received the Word in much affliction, with joy of the Holy Ghoſt.</hi>
+                     </item>
+                     <item>3. Building up Saints, through faith <hi>unto ſalva<g ref="char:EOLhyphen"/>tion.</hi> Rom. 1.16. <hi>I am not aſhamed of the Goſpel of Chriſt, for it is the power of God unto Salvation, to every one that believeth.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="90">90 Q.<note place="margin">Twenty-fifth day.</note> 
+                  <hi>How is the Word to be read and heard, that it may become effectual to Salvation?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> That the Word may become effectual to Sal<g ref="char:EOLhyphen"/>vation, we muſt attend thereunto, with diligence, preparation, and prayer, receive it with faith, and love, lay it up in our hearts, and practiſe it in our lives.</hi>
+               </p>
+               <pb n="52" facs="tcp:105630:27"/>
+               <p>
+                  <hi>That the word may become effectual to Salvation, we muſt,</hi>
+                  <list>
+                     <item>1. <hi>Attend</hi> thereunto with diligence. <hi>Prov.</hi> 8.34. <hi>Bleſſed is the man, that heareth me, watching daily at my gates, waiting at the poſts of my doors.</hi>
+                     </item>
+                     <item>2. Attend thereunto with Preparation. 1 <hi>Pet.</hi> 2.1, 2. <hi>Laying aſide all malice, and all guile, and hy<g ref="char:EOLhyphen"/>pocriſies, and envies, and evil ſpeakings.</hi> 2. <hi>As new<g ref="char:EOLhyphen"/>born babes, deſire the ſincere milk of the Word, that ye may grow thereby.</hi>
+                     </item>
+                     <item>3. Attend thereunto with Prayer. <hi>Pſal.</hi> 119.18. <hi>Open thou mine eyes, that I may behold wonderful things out of thy Law.</hi>
+                     </item>
+                     <item>4. Receive it with Faith. <hi>Heb.</hi> 4.2. <hi>The word preached did not profit them, not being mixed with faith, in them, that heard it.</hi>
+                     </item>
+                     <item>5. Receive it with Love. 2 <hi>Theſ.</hi> 2.10. <hi>They received not the love of the truth, that they might be ſaved.</hi>
+                     </item>
+                     <item>6. Lay it up in your hearts. <hi>Pſal.</hi> 119.11. <hi>Thy word have I hid in my heart, that I might not ſin a<g ref="char:EOLhyphen"/>gainſt thee.</hi>
+                     </item>
+                     <item>7. Practiſe it in our lives. <hi>Jam.</hi> 1.25. <hi>Whoſo looketh into the perfect law of Liberty, and continueth therein, he being not a forgetful hearer, but a doer of the word, this man ſhall be bleſſed in his deed.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="91">91 Q. <hi>How do the Sacraments become effectual means of Salvation?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Sacraments become effectual means of Salvation, not from any vertue in them, or in him that doth adminiſter them, but only by the bleſſing of Chriſt, and the working of the Spirit in them, that by Faith receive them.</hi>
+               </p>
+               <pb n="53" facs="tcp:105630:27"/>
+               <p>
+                  <hi>The Sacraments become effectual means of Salvation,</hi>
+                  <list>
+                     <item>1. Not from any <hi>vertue</hi> in them, or in him, that doth adminiſter them. 1 <hi>Cor.</hi> 3.7. <hi>Neither is he, tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>, any thing, neither he that watereth,</hi> but God that giveth the increaſe.</item>
+                     <item>2. Only by the bleſſing of Chriſt, and the work<g ref="char:EOLhyphen"/>ing of his ſpirit, in them, that by faith receive them. 1 <hi>Pet.</hi> 3.21. The like figure whereunto, even <hi>Baptiſm doth alſo now ſave us,</hi> not the putting away the <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the fleſh, but <hi>the anſwer of a good Conſcience toward God, by the Reſurrection of Jeſus Chriſt.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="92">92 Q. <hi>What is a Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> A Sacrament is an holy Ordinance, inſtitu<g ref="char:EOLhyphen"/>ted by Chriſt, wherein, by ſenſible ſigns, Chriſt, and the b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s of the New Covenant, are repre<g ref="char:EOLhyphen"/>ſented, ſealed, and aported to Believers.</hi>
+               </p>
+               <p>
+                  <hi>A Sacrament is an holy Orainance inſtatuted by Chriſt, wherein, by ſenſible ſigns, Chriſt, and the benefits of the new Covenant, are,</hi>
+                  <list>
+                     <item>1. Repreſented to Believers. <hi>Gen.</hi> 17.10. <hi>This is my Covenant, which ye ſhall keep between me, and you, and thy ſeed after thee, every man child among you ſhall be circumciſed.</hi>
+                     </item>
+                     <item>2. Seal'd, and applied to Believers. <hi>Rom.</hi> 4.11. <hi>He received the ſign of Circumciſion, a ſeal of the Righ<g ref="char:EOLhyphen"/>teouſneſs of Faith which he had yet being uncircumciſed.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="93">93 Q. <hi>Which are the Sacraments of the New Teſtament;</hi>
+                  <note place="margin">Twenty-ſixth day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Sacraments of the New Teſta<g ref="char:EOLhyphen"/>ment, are Baptiſm, and the Lords Sup<g ref="char:EOLhyphen"/>per.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>Baptiſm</hi> is a Sacrament of the New Teſtament.
+<pb n="54" facs="tcp:105630:28"/>Mar. 16.16. <hi>He, that believeth, and is Baptized, ſhall be ſaved.</hi>
+                  </item>
+                  <item>2. The <hi>Lords Supper</hi> is a Sacrament of the New Teſtament. 1 <hi>Cor.</hi> 11.23. <hi>I have received of the Lord, that which alſo I delivered unto you, that the Lord Jeſus, the ſame night, in which he was betrayed took bread.</hi>
+                  </item>
+               </list>
+               <p n="94">94 Q. <hi>What is Baptiſm?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Baptiſm is a Sacrament, wherein the waſh<g ref="char:EOLhyphen"/>ing with water, in the name of the Father, and of the Son, and of the Holy Ghoſt, doth ſignifie, and ſeal, our ingrafting into Chriſt, and partaking of the benefits of the Covenant of Grace, and our engagement to be the Lords.</hi>
+               </p>
+               <p>
+                  <hi>Baptiſm,</hi>
+                  <list>
+                     <item>1. Is a Sacrament, wherein is the <hi>waſhing</hi> with water, in the name of the <hi>Father,</hi> and of the <hi>Son,</hi> and of the <hi>Holy Ghoſt. Mat</hi> 28.19. Go ye, and teach all Nations, <hi>baptizing them, in the name of the Fa<g ref="char:EOLhyphen"/>ther, and of the Son, and of the Holy Ghoſt.</hi>
+                     </item>
+                     <item>2. Doth ſignifie, and ſeal our <hi>ingrafting</hi> into Chriſt, and partaking of the benefits of the Cove<g ref="char:EOLhyphen"/>nant of grace. <hi>Rom.</hi> 6.3. <hi>Know ye not, that ſo ma<g ref="char:EOLhyphen"/>ny of us, as were baptized into Jeſus Chriſt, were bap<g ref="char:EOLhyphen"/>tized into his death?</hi>
+                     </item>
+                     <item>3. Doth ſignifie, and ſeal our engagement, to be the Lords. <hi>Rom.</hi> 6.4. <hi>We are buried with him by Baptiſm into death, that like as Chriſt was raiſed from the dead, by the glory of the Father, even ſo we alſo ſhould walk in newneſs of life.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="95">95 Q. <hi>To whom is Baptiſm to be admini<g ref="char:EOLhyphen"/>ſtred?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Baptiſm is not to be adminiſtred to any, that are out of the viſible Church, t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> they profeſs their faith in Chriſt, and obedience to him; but the In<g ref="char:EOLhyphen"/>fants
+<pb n="55" facs="tcp:105630:28"/>of ſuch, as are members of the viſible Church, are to be baptized.</hi>
+               </p>
+               <list>
+                  <item>1. Baptiſm is not to be adminiſtred to any, that are <hi>out of the viſible Church,</hi> till they <hi>profeſs</hi> their <hi>faith</hi> in Chriſt, and <hi>obedience</hi> to him. <hi>Acts</hi> 2.41. <hi>Then they, that gladly received his word, were baptized.</hi>
+                  </item>
+                  <item>2. The infants of ſuch as are members of the viſible Church, are to be baptized. <hi>Gen.</hi> 17.7. <hi>I will eſtabliſh my Covenant between me, and thee, and thy ſeed after thee, in their generations, for an Ever<g ref="char:EOLhyphen"/>laſting Covenant, to be a God unto thee, and to thy ſeed after thee.</hi> 10. <hi>This is my Covenant, which ye ſhall keep between me, and you, and thy ſeed after thee, eve<g ref="char:EOLhyphen"/>ry Man-child among you ſhall be circumciſed.</hi>
+                  </item>
+               </list>
+               <q>
+                  <bibl>
+                     <hi>Acts</hi> 2.38.</bibl> Peter ſaid unto them, <hi>Repent, and be baptized every one of you,</hi> in the name of Jeſus Chriſt, for remiſſion of ſins, and ye ſhall receive the gift of the Holy Ghoſt. 39. For <hi>the promiſe is to you, and and to your Children, and to all that a far off, even as many as the Lord our God ſhall call.</hi>
+               </q>
+               <p n="96">96 Q. <hi>What is the Lords Supper?</hi>
+                  <note place="margin">Twenty-ſeventh day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Lords Supper is a Sacrament wherein by giving and receiving Bread and VVine, according to Chriſts appoint<g ref="char:EOLhyphen"/>ment, his death is ſhewed forth, and the worthy Re<g ref="char:EOLhyphen"/>ceivers are, not after a corporal, and carnal man<g ref="char:EOLhyphen"/>ner, but by faith, made partakers of his body, and blood, with all his benefits, to their ſpiritual nou<g ref="char:EOLhyphen"/>riſhment, and growth in grace.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>Lords Supper</hi> is a Sacrament, wherein, by <hi>giving,</hi> and <hi>receiving bread</hi> and <hi>wine,</hi> according to Chriſts appointment, his <hi>death</hi> is <hi>ſhewed</hi> forth. <hi>Luke</hi> 22.19. <hi>He took bread, and gave thanks, and brake it,
+<pb n="56" facs="tcp:105630:29"/>and gave unto them, ſaying, This is my body, which is given for you, this do in remembrance of me.</hi> 20. <hi>Like<g ref="char:EOLhyphen"/>wiſe alſo the Cup after Supper, ſaying, this cup is the New Teſtament in my blood, which is ſhed for you.</hi>
+                  </item>
+                  <item>2. The worthy receivers of the Lords Supper, are not after a <hi>corporal,</hi> and <hi>carnal</hi> manner, but by <hi>faith,</hi> made <hi>partakers</hi> of Chriſts <hi>body,</hi> and <hi>blood,</hi> with <hi>all</hi> his <hi>benefits,</hi> to their ſpiritual <hi>nouriſhment,</hi> and <hi>growth</hi> in grace. 1 <hi>Cor.</hi> 10.16. <hi>The cup of bleſſing, which we bleſs, is it not the communion of the blood of Chriſt? The bread, which we break is it not the com<g ref="char:EOLhyphen"/>munion of the body of Chriſt?</hi>
+                  </item>
+               </list>
+               <p n="97">97 Q. <hi>VVhat is required in the worthy receiving of the Lords Supper?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> It is required of them, that would worthily par<g ref="char:EOLhyphen"/>take of the Lords Supper, that the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> examine them<g ref="char:EOLhyphen"/>ſelves, of their knowledg, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> diſcern the Lords Body, of their faith to féed upon him, or their renemance, love, and new obedience, leſt coming unworthily, they eat, and drink judgment to themſelves.</hi>
+               </p>
+               <p>
+                  <hi>It is required of them, that would worthily partake of the Lords Supper, that they examine themſelves, of their,</hi>
+                  <list>
+                     <item>1. Knowledg to diſcern the Lords body. 1 <hi>Cor.</hi> 11.28. <hi>Let a man examine himſelf, and ſo let him eat of that bread, and drink of that cup.</hi> 29. For he, that ea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>th, and drinketh <hi>unworthily</hi> careth, and drinketh damnation to himſelf, <hi>not diſcerning the Lords body.</hi>
+                     </item>
+                     <item>2. Faith to feed upon him. 2 <hi>Cor.</hi> 13.5. <hi>Examine your ſelves, whether ye be in the faith.</hi>
+                     </item>
+                     <item>3. Repentance. 1 <hi>Cor.</hi> 11.31. <hi>If we would judg ourſelves, we ſhould not be judged.</hi>
+                     </item>
+                     <item>4. Love. 1 <hi>Cor.</hi> 11.18. When you come toge<g ref="char:EOLhyphen"/>ther
+<pb n="57" facs="tcp:105630:29"/>in the Church, <hi>I hear there be diviſions among you.</hi> 20. <hi>When ye come together therefore into one place, this is not to eat the Lords Supper.</hi>
+                     </item>
+                     <item>5. New obedience. 1 <hi>Cor.</hi> 5.8. <hi>Let us keep the feaſt, not with old leaven, neither with the leaven of malice, and wickedneſs, but with the unleavened bread of ſincerity, and truth.</hi>
+                     </item>
+                     <item>6. They, that come unworthily to the Lords Supper, eat and drink judgment to to themſelves. 1 <hi>Cor.</hi> 11.27. <hi>Whoſoever ſhall eat this Bread, or drink this Cup of the Lord unworthily, ſhall be guilty of the Body, and Blood of the Lord.</hi> 29. <hi>He, that eateth, and drinketh unworthily, eateth, and drinketh damna<g ref="char:EOLhyphen"/>tion to himſelf.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="98">98 Q. <hi>What is Prayer?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> Prayer is an offering up of our deſires to God for things agreeable to his will, in the name of Chriſt, with confeſſion of our ſins, and thankful acknowledgment of his mercies.</hi>
+               </p>
+               <p>
+                  <hi>Prayer,</hi>
+                  <list>
+                     <item>1. Is an <hi>offering</hi> up of our <hi>deſires</hi> to God. <hi>Pſal.</hi> 62.8. Truſt in him at all times, ye people, <hi>pour out your hearts before him,</hi> God is a refuge for us.</item>
+                     <item>2. Is to be made, for things <hi>agreeable</hi> to Gods <hi>will. Rom.</hi> 8.27. He that ſearcheth the heart, know<g ref="char:EOLhyphen"/>eth the mind of the ſpirit, becauſe <hi>he maketh inter<g ref="char:EOLhyphen"/>ceſſion for the Saints, according to the will of God.</hi>
+                     </item>
+                     <item>3. Is to be made in the <hi>name</hi> of Chriſt. <hi>Joh.</hi> 16.23. Whatſoever ye ſhall <hi>ask the Father in my Name,</hi> he will give it you.</item>
+                     <item>4. Is to be made with <hi>confeſſion</hi> of our ſins. <hi>Dan.</hi> 9.4. <hi>I prayed unto the Lord my God, and made my confeſſion.</hi>
+                     </item>
+                     <pb n="58" facs="tcp:105630:30"/>
+                     <item>5. Is to be made with a <hi>thankful acknowledgment</hi> of Gods <hi>mereies. Phil.</hi> 4.6. Be careful for nothing, but <hi>in every thing by prayer, and ſupplication, with thanksgiving, let your requeſts be made known to God.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="99">99 Q. <hi>VVhat Rule hath God given us, for our Direction in Prayer?</hi>
+                  <note place="margin">Twenty-eighth day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The whole word of God is of uſe to direct us in Prayer, but the ſpecial Rule of Direction, is that Form of Prayer, which Chriſt taught his Diſciples, commonly called the Lords Prayer.</hi>
+               </p>
+               <p n="1">1. The <hi>whole word</hi> of God is of uſe to <hi>direct</hi> us in Prayer. 1 <hi>Joh.</hi> 5.14. This is the conſidence, that we have in him, that <hi>if we ask any thing according to his will, he heareth us.</hi>
+               </p>
+               <p>The <hi>eſpecial</hi> Rule of our <hi>direction</hi> in <hi>Prayer,</hi> is that <hi>form</hi> of Prayer, which Chriſt taught his Diſciples, commonly called the <hi>Lords Prayer. Mat.</hi> 6.9. <hi>After this manner therefore pray y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: Our Father, which art in Heaven, hallowed be thy Name,</hi> &amp;c.</p>
+               <p n="100">100 Q <hi>VVhat doth the Preface of the Lords Pray<g ref="char:EOLhyphen"/>er teach us?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Preface of the Lords Prayer, which is</hi> Our Father, which art in Heaven; <hi>teacheth us, to draw near to God, with all holy reverence, and confidence, as children to a Father, able, and ready to help us, and that we ſhould pray with, and for others.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>Preface</hi> of the <hi>Lords</hi> Prayer is, <hi>Our Fa<g ref="char:EOLhyphen"/>ther which art in Heaven,</hi> Mat. 6.9.</item>
+                  <item>2. <hi>In prayer, we are to draw near to God,</hi> with all holy <hi>reverence.</hi> Iſa. 64.9. <hi>Be not wroth very ſore, O Lord, neither remember iniquity for ever; behold, ſee, we beſeech thee, we are all thy people.</hi>
+                  </item>
+                  <item>3. In <hi>Prayer,</hi> we are to draw near to God, with
+<pb n="59" facs="tcp:105630:30"/>all holy <hi>confidence. Rom.</hi> 8.15. Ye have not recei<g ref="char:EOLhyphen"/>ved the ſpirit of bondage, again to fear, but <hi>ye have received the ſpirit of adoption, whereby we cry, Abba Father.</hi>
+                  </item>
+                  <item>4. In <hi>Prayer,</hi> we are to draw near to God, as <hi>Children</hi> to a <hi>Father,</hi> able, and ready to help us. Luke 11, 13. <hi>If ye, being evil, know, how to give good gifts to your Children, how much more ſhall your heavenly Father give the Holy Spirit to them, that ask him.</hi>
+                  </item>
+                  <item>5. We are to pray with, and for others. <hi>Epheſ.</hi> 6.18. <hi>Praying always, with all prayer and ſupplication in the ſpirit, and watching thereuto with all perſeve<g ref="char:EOLhyphen"/>rance, and ſurplication for all ſaints.</hi>
+                  </item>
+               </list>
+               <p n="101">101 Q. <hi>What do we pray for in the firſt Petition?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> In the firſt Petition, which is,</hi> Hallowed be thy Name; <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> that God would enable us, and o<g ref="char:EOLhyphen"/>thers to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> him in all that, whereby he makes himſelf <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>on, and that he would diſpoſe all things to his <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> gl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry.</hi>
+               </p>
+               <list>
+                  <item>1. <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> is <hi>Hallowed be thy name,</hi> Mat. 6 9.</item>
+                  <item>2. <hi>We <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> that God would</hi> enable us, and others to <hi>glori <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> in all that, whereby he makes him<g ref="char:EOLhyphen"/>ſelf <hi>known.</hi> Pſal. 67.1. <hi>God be mereiful unto us, and bleſs us, and cauſe his face to ſhine upon us.</hi> 2. <hi>That thy way may be known upon Farth, thy ſaving health a<g ref="char:EOLhyphen"/>mong all Nations.</hi> 3. <hi>Let the people praiſe thee, O God, let all the people praiſe thee.</hi>
+                  </item>
+                  <item>3. We are to pray, that God would diſpoſe all things to his own glory. <hi>Rom.</hi> 11.36. Of him, and through him, <hi>and to him are all things, to whom be glory for ever. Amen.</hi>
+                  </item>
+               </list>
+               <p n="102">102 Q.<note place="margin">Twenty-ninth day.</note> 
+                  <hi>What do we pray for in the ſecond Petition?</hi>
+               </p>
+               <pb n="60" facs="tcp:105630:31"/>
+               <p>
+                  <hi>
+                     <hi>A.</hi> In the ſecond Petition, which is,</hi> Thy King<g ref="char:EOLhyphen"/>dom come; <hi>we pray, that Satans Kingdom may be deſtroyed, that the Kingdom of Grace may be ad<g ref="char:EOLhyphen"/>vanced, our ſelves, and others brought into it, and kept in it; and that the Kingdom of Glory may be haſtned.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>ſecond</hi> Petition is, <hi>Thy Kingdom come,</hi> Mat. 6.10.</item>
+                  <item>2. <hi>We are to pray, that Satans</hi> Kingdom may be <hi>deſtr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yed.</hi> Pſal. 68.1. <hi>Let God ariſe, and let his E<g ref="char:EOLhyphen"/>nemies be ſcattered, let them alſo, that hate him, flee be<g ref="char:EOLhyphen"/>fore him.</hi>
+                  </item>
+                  <item>3. We are to pray, that the Kingdom of <hi>Grace,</hi> may be <hi>advanced.</hi> Pſal. 51.18. <hi>Do g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d in thy go<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d pleaſure unto Sion, build thou the walls of Jeruſalem.</hi>
+                  </item>
+                  <item>
+                     <p>4. We are to pray, that our <hi>ſelves,</hi> and <hi>others,</hi> may be <hi>brought into</hi> the Kingdom of <hi>Grace,</hi> and <hi>kept</hi> in it. 2 Theſ. 3.4. <hi>Brethren, pray for us, that the word of the Lord may have a free courſe, and be glorified, even as it is with you.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Rom. 10.1. </hi>
+                        </bibl> My hearts deſire, and prayer to God for Iſrael is, that they might be ſaved.</q>
+                  </item>
+                  <item>5. We are to pray, that the Kingdom of <hi>Glory</hi> may be <hi>haſtened.</hi> Rev. 22.20. <hi>Surely, I come quickly Amen: Amen, Even ſo come Lord Jeſus.</hi>
+                  </item>
+               </list>
+               <p n="103">103 Q. <hi>What do we pray for in the third Petition?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> In the third Petition, which is,</hi> Thy will be done on Earth, as it is in Heaven; <hi>We pray, that God, by his Grace, would make us able, and wil<g ref="char:EOLhyphen"/>ling, to know, obey, and ſubmit to his will, in all things, as the Angels do in Heaven.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>third</hi> Petition is, <hi>Thy will be done on earth, as it is in Heaven,</hi> Mat. 6.10.</item>
+                  <pb n="61" facs="tcp:105630:31"/>
+                  <item>2. We are to pray, that <hi>God,</hi> by his <hi>grace,</hi> would make us <hi>able,</hi> and <hi>willing,</hi> to <hi>know,</hi> and <hi>obey</hi> his <hi>will,</hi> in <hi>all things.</hi> Pſal. 119.34. <hi>Give me underſtanding, and I ſhall keep thy Law, yea I ſhall obſerve it, with my whole heart.</hi> 35. <hi>Make me to go in the path of thy Commandments, for therein do I delight.</hi> 36. <hi>Incline my heart unto thy Teſtimonies.</hi>
+                  </item>
+                  <item>3. We are to pray, that God by his grace, would make us <hi>able,</hi> and <hi>willing,</hi> to ſubmit to his will in all things. <hi>Act.</hi> 21.14. When he would not be perſwa<g ref="char:EOLhyphen"/>ded, <hi>we ceaſed, ſaying, the will of the Lord be done.</hi>
+                  </item>
+                  <item>4. We are to pray, that God by his grace, would make us able, and willing, to know, obey, and ſub<g ref="char:EOLhyphen"/>mit to his will in all things, as the <hi>Angels</hi> do in Heaven. <hi>Pſal.</hi> 103.20. <hi>Bleſs the Lord, ye his An<g ref="char:EOLhyphen"/>gels, that do his Commandments, hearkning to the voice of his word.</hi> 22. <hi>Bleſs the Lord, all his works, in all places of his Dominions, Bleſs the Lord, O my ſoul.</hi>
+                  </item>
+               </list>
+               <p n="104">104 Q. <hi>What do we pray for in the fourth Petition?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> In the fourth Petition, which is,</hi> Give us this day our daily Bread; <hi>We pray, that, of Gods free gift, we may receive a competent portion of the good things of this life, and enjoy his bleſſing with them.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>fourth</hi> Petition is, <hi>Give us this day, our daily bread,</hi> Mat. 6.11.</item>
+                  <item>2. <hi>We are to pray, that of Gods free gift, we may</hi> receive a <hi>competent</hi> portion of the <hi>good things</hi> of <hi>this</hi> life. <hi>Prov.</hi> 30.8. Remove far from me vanity and lies, <hi>give me neither poverty, nor riches, feed me with food convenient for me.</hi>
+                  </item>
+                  <item>3. We are to pray, that of Gods free gift, we may enjoy his <hi>bleſſing</hi> with the <hi>good things</hi> of this life. <hi>Pſal.</hi> 90.17. <hi>Let the beauty of the Lord our God be upon
+<pb n="62" facs="tcp:105630:32"/>us, and eſtabliſh the work of our hands upon us, yea the work of our hands eſtabliſh thou it.</hi>
+                  </item>
+               </list>
+               <p n="105">105 Q. <hi>What do we pray for in the fifth Petition?</hi>
+                  <note place="margin">Thirtieth day.</note>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> In the fifth Petition, which is,</hi> And forgive us our debts, as we forgive our debtors; <hi>We pray, that God, for Chriſts ſake, would freely pardon all our ſins, which we are the rather encouraged to ask, becauſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> grace, we are en<g ref="char:EOLhyphen"/>abled, from the heart, to <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>give others.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>fifth</hi> Petition is, <hi>And forgive us our debts, as we forgive our debters,</hi> Mat. 6.12.</item>
+                  <item>
+                     <p>2. We are to pray, that God, for Chriſts ſake, would freely pardon all our ſins. <hi>Pſal.</hi> 51.1. <hi>Have mercy upon me, O God, according to thy loving kindneſs, according to the multitude of thy tender mercies, blot out my Tranſgreſſions.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Dan. 9.17. </hi>
+                        </bibl> Cauſe thy face to ſhine, for the Lords ſake. <hi>19.</hi> O Lord, hear, O Lord forgive, for thine own ſake.</q>
+                  </item>
+                  <item>3. We are the rather <hi>encouraged,</hi> to ask of God, the <hi>free pardon</hi> of all our ſins, becauſe, by his <hi>grace,</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e are enabled, from the <hi>heart,</hi> to <hi>forgive others.</hi> Mat. 6.14. <hi>If ye forgive men their treſpaſſes, your heavenly Father will alſo forgive you.</hi>
+                  </item>
+               </list>
+               <p n="106">106 Q. <hi>What do we pray for in the ſixth Petition?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> In the ſixth Petition which is,</hi> And lead us not into temptation, but deliver us from evil; We <hi>pray, that God would either kéep us from being temp<g ref="char:EOLhyphen"/>ted to ſin, or ſupport and dellver us, when we are tempted.</hi>
+               </p>
+               <list>
+                  <item>1. The <hi>ſixth</hi> Petition is, <hi>And lead us not into temp<g ref="char:EOLhyphen"/>tation, but deliver us from evil,</hi> Mat. 6.13.</item>
+                  <item>
+                     <p>2. <hi>We are to pray, that God would keep us,</hi> from
+<pb n="63" facs="tcp:105630:32"/>being <hi>tempted</hi> to ſin. Mat. 26.41. <hi>Watch, and pray, that ye enter not into temptation.</hi>
+                     </p>
+                     <q>
+                        <bibl>
+                           <hi>Pſal. 19.13.</hi>
+                        </bibl> Keep back thy ſervant from preſumptu<g ref="char:EOLhyphen"/>ous ſins, let them not have dominion over me.</q>
+                  </item>
+                  <item>3. We are to pray, that God would <hi>ſupport,</hi> and <hi>deliver</hi> us, <hi>when</hi> we are <hi>tempted.</hi> Pſal. 51.10. <hi>Create in me a clean heart, O God, renew a right ſpirit within me.</hi> 12. <hi>Reſtore unto me the joy of thy Salvati<g ref="char:EOLhyphen"/>on, and uphold me with thy free ſpirit.</hi>
+                  </item>
+               </list>
+               <p n="107">107 Q. <hi>What doth the Concluſion of the Lords Prayer teach us?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <hi>A.</hi> The Concluſion of the Lords Prayer; which is,</hi> For thine is the Kingdom, and the pow<g ref="char:EOLhyphen"/>er, and the glory, for ever, <hi>
+                     <hi>Amen,</hi> teacheth us, to take our encouragement in prayer, from God only, and in our prayers, to praiſe him, aſcri<g ref="char:EOLhyphen"/>bing Kingdom, Power, and Glory to him, and in teſtimony of our deſire, and aſſurance to be heard, we ſay,</hi> Amen.
+<list>
+                     <item>1. The <hi>Concluſion</hi> of the <hi>Lords Prayer,</hi> is, <hi>For thine is the Kingdom, and the Power, and the Glory, for ever,</hi> Amen, Mat. 6.13.</item>
+                     <item>2. We are to take our <hi>encouragement</hi> in Prayer, from <hi>God only.</hi> Dan. 9.18. <hi>We do not preſent our Supplications before thee, for our righteouſneſſes, but for thy great mercies.</hi> I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. <hi>O Lord, hearken, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> do, defer not, for thine own ſake, O my God.</hi>
+                     </item>
+                     <item>3. We are in our Prayers, to <hi>praiſe</hi> God, by a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>cribing <hi>Kingdom, Power,</hi> and <hi>Glory,</hi> to him. 1 <hi>Chro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi> 29.11. <hi>Thine, O Lord, is the greatneſs, and the pow<g ref="char:EOLhyphen"/>er, and the glory, and the victory, and the Majeſty<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> for all that is in Heaven, and Earth is thine.</hi> 13. <hi>N<gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <pb n="64" facs="tcp:105630:33" rendition="simple:additions"/>therefore, O God, we thank thee, and praiſe thy g<gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ous Name.</hi>
+                     </item>
+                     <item>4. In teſtimony of our <hi>deſire,</hi> and <hi>aſſurance,</hi> to be <hi>heard</hi> in prayer, we ſay, <hi>Amen.</hi> Rev. 22.20. <hi>Amen, Even ſo come, Lord Jeſus.</hi>
+                     </item>
+                  </list>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>BOOKS Printed for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and three <hi>Crowns</hi> in <hi>Cheapſide,</hi> near <hi>Mercers-Chappel;</hi> and at the <hi>Bible</hi> on <hi>Lon<g ref="char:EOLhyphen"/>don-Bridg.</hi>
+            </head>
+            <p>THe Childs Delight together with an <hi>Engliſh Gramer.</hi>
+            </p>
+            <p>Reading and ſpelling <hi>Engliſh</hi> made eaſie, wherein all the words of our <hi>Engliſh Bible,</hi> are ſet down in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Alphabetical order, and divided into their diſtinct <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>llables.</p>
+            <p>A Plain and Familier Method of Inſtructing the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>unger ſort. All three by <hi>Tho. Lye,</hi> Miniſter of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Goſpel.</p>
+            <p>A Little Book for Little Children. By <hi>Tho. White.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> A <hi>Memento</hi> for young and old: By Mr. <hi>Maynard</hi>
+            </p>
+            <pb facs="tcp:105630:33"/>
+         </div>
+      </back>
+   </text>
+</TEI>
